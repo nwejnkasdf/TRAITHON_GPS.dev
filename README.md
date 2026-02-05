@@ -3,7 +3,18 @@ Trustworthy AI competition portfolio
 
 ## 1. 권효중
 ## 2. 김준호
-## 3. 윤현정
+## 3. Hyeonjeong Yoon
+
+### 3.1. Summary:
+Working as a Data Scientist, supported interpretability analysis and validation for a clickbait detection system through label integrity checks, stress testing, and experimental reporting.
+
+### 3.2. Detail:
+- Designed and refined XAI-based analysis experiments, clustering clickbait-related keywords at the human cognition level to produce interpretability-focused analysis and reporting.
+- Contributed to the structuring and systematization of AI governance practices across data collection, preprocessing, modeling, and deployment, clarifying impact, risk, and response workflows.
+- Conducted label integrity verification on a large-scale clickbait news dataset, quantitatively evaluating annotation reliability through inter-annotator agreement analysis.
+- Designed and executed input-perturbation stress tests focused on punctuation variations, analyzing model vulnerabilities and operational risks, and documenting the results in validation reports.
+- Led the creation and management of project-wide evidence artifacts, and producing presentation materials and a comprehensive project summary.
+
 ## 4. Woonjung Lee
 
 ### 4.1. Summary:
