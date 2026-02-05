@@ -1,0 +1,24 @@
+{
+  "N_MIN_SECTION": 40,
+  "eligible_sections": 7,
+  "gap_FPR": 0.03954802259887006,
+  "gap_FNR": 0.06269432980948612,
+  "gap_TPR": 0.06269432980948608,
+  "gap_ECE(10bins)": 0.02043003833492397,
+  "gap_AUROC": 0.02200955259386772,
+  "gap_logit_diff_mean": 1.5301736231632534,
+  "worst_FPR_section": [
+    {
+      "section": "PO",
+      "FPR": 0.03954802259887006,
+      "n": 715
+    }
+  ],
+  "best_FPR_section": [
+    {
+      "section": "IS",
+      "FPR": 0.0,
+      "n": 645
+    }
+  ]
+}

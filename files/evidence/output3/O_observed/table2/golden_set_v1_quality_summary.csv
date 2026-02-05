@@ -1,0 +1,6 @@
+metric,value,notes
+n,5000,after dedup
+completeness,98.6%,required fields
+label_kappa,0.72,inherit parent labels
+pii_email,0,scan_v1
+pii_phone,0,scan_v1

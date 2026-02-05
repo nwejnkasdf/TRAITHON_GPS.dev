@@ -1,0 +1,5 @@
+Category,Policy_Code,Requirement,Description
+PII_Handling,PP-01,Replace_or_Reject,Do not use masking; Replace sensitive names or reject the article entirely.
+Unicode_Evasion,PP-02,Regex_Cleaning,Remove HTML entities (&nbsp; &#8231; etc.) and invisible tags.
+Contact_Info,PP-03,Full_Removal,Automated removal of Email patterns and Phone numbers via regex.
+Audit_Log,PP-04,Privacy_Score,Every batch must maintain zero raw PII detection rate.

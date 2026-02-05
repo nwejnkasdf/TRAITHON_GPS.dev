@@ -1,0 +1,17 @@
+﻿week_start,section,fp_count,exposure_count,fp_exposure,error_share,threshold_share,breach,consecutive_breach,k_rule,flagged_operational_bias,rule_id,rule_version
+2025-11-04,politics,182,12400,2256800,0.3954,0.3,True,1,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-04,economy,95,13200,1254000,0.2197,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-04,society,88,14050,1236400,0.2166,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-04,entertainment,62,15500,961000,0.1684,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-11,politics,165,11890,1961850,0.3489,0.3,True,2,2,True,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-11,economy,110,12980,1427800,0.2539,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-11,society,91,14110,1284010,0.2284,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-11,entertainment,60,15820,949200,0.1688,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-18,politics,120,12210,1465200,0.2595,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-18,economy,125,13110,1638750,0.2902,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-18,society,96,13980,1342080,0.2377,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-18,entertainment,75,16010,1200750,0.2126,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-25,politics,98,12050,1180900,0.2087,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-25,economy,130,13340,1734200,0.3065,0.3,True,1,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-25,society,102,14220,1450440,0.2564,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0
+2025-11-25,entertainment,80,16150,1292000,0.2284,0.3,False,0,2,False,BIAS-SEC-FP-EXP-001,v1.0

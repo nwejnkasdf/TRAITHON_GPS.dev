@@ -1,0 +1,6336 @@
+{
+  "AUTO_EC": [
+    {
+      "word": "판단하라.[카테고리]EC[제목]주담대",
+      "mean_abs": 2.0859375,
+      "mean_signed": -2.0859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/483.json"
+      ]
+    },
+    {
+      "word": "첫마을",
+      "mean_abs": 1.23876953125,
+      "mean_signed": 1.23876953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/442.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]공정위,",
+      "mean_abs": 1.1298828125,
+      "mean_signed": 1.1298828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/459.json"
+      ]
+    },
+    {
+      "word": "허위제출”[본문]▲",
+      "mean_abs": 1.0419921875,
+      "mean_signed": 1.0419921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/459.json"
+      ]
+    },
+    {
+      "word": "월드,",
+      "mean_abs": 0.97216796875,
+      "mean_signed": 0.97216796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/478.json"
+      ]
+    },
+    {
+      "word": "최대0.03%p",
+      "mean_abs": 0.81201171875,
+      "mean_signed": 0.81201171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/483.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]BNK금융그룹,",
+      "mean_abs": 0.7376708984375,
+      "mean_signed": 0.7376708984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/490.json"
+      ]
+    },
+    {
+      "word": "‘그린킥오프’[본문]하나은행은",
+      "mean_abs": 0.70672607421875,
+      "mean_signed": 0.70672607421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/468.json"
+      ]
+    },
+    {
+      "word": "‘가이드봇’",
+      "mean_abs": 0.6820068359375,
+      "mean_signed": 0.6820068359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/478.json"
+      ]
+    },
+    {
+      "word": "고발…“대기업집단",
+      "mean_abs": 0.666259765625,
+      "mean_signed": 0.666259765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/459.json"
+      ]
+    },
+    {
+      "word": "中알리바바와",
+      "mean_abs": 0.64501953125,
+      "mean_signed": 0.64501953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/455.json"
+      ]
+    },
+    {
+      "word": "롯데호텔",
+      "mean_abs": 0.640625,
+      "mean_signed": 0.640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/478.json"
+      ]
+    },
+    {
+      "word": "수출기업",
+      "mean_abs": 0.6181640625,
+      "mean_signed": 0.6181640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/455.json"
+      ]
+    },
+    {
+      "word": "\\\"인중합체의",
+      "mean_abs": 0.614501953125,
+      "mean_signed": 0.614501953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/445.json"
+      ]
+    },
+    {
+      "word": "우리금융타운역입니다\\\"",
+      "mean_abs": 0.609893798828125,
+      "mean_signed": 0.609893798828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/449.json"
+      ]
+    },
+    {
+      "word": "부울경",
+      "mean_abs": 0.599609375,
+      "mean_signed": 0.599609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/490.json"
+      ]
+    },
+    {
+      "word": "변동금리",
+      "mean_abs": 0.544921875,
+      "mean_signed": -0.544921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/483.json"
+      ]
+    },
+    {
+      "word": "챌린지'",
+      "mean_abs": 0.5439453125,
+      "mean_signed": 0.5439453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/474.json"
+      ]
+    },
+    {
+      "word": "보',",
+      "mean_abs": 0.529296875,
+      "mean_signed": -0.529296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/494.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]獨서",
+      "mean_abs": 0.520751953125,
+      "mean_signed": 0.520751953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/444.json"
+      ]
+    },
+    {
+      "word": "호반건설",
+      "mean_abs": 0.5107421875,
+      "mean_signed": 0.5107421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/459.json"
+      ]
+    },
+    {
+      "word": "허용할까[본문]지난해",
+      "mean_abs": 0.5009765625,
+      "mean_signed": 0.5009765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/446.json"
+      ]
+    },
+    {
+      "word": "'동남권",
+      "mean_abs": 0.48486328125,
+      "mean_signed": 0.48486328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/490.json"
+      ]
+    },
+    {
+      "word": "추가",
+      "mean_abs": 0.462890625,
+      "mean_signed": -0.462890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/483.json"
+      ]
+    },
+    {
+      "word": "명동역,",
+      "mean_abs": 0.4375,
+      "mean_signed": -0.4375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/449.json"
+      ]
+    },
+    {
+      "word": "'탄탄크림",
+      "mean_abs": 0.429443359375,
+      "mean_signed": -0.429443359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/494.json"
+      ]
+    },
+    {
+      "word": "유명인과",
+      "mean_abs": 0.42724609375,
+      "mean_signed": -0.42724609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/494.json"
+      ]
+    },
+    {
+      "word": "올려…낮추길",
+      "mean_abs": 0.42557525634765625,
+      "mean_signed": -0.42557525634765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/482.json"
+      ]
+    },
+    {
+      "word": "드라마에",
+      "mean_abs": 0.41796875,
+      "mean_signed": 0.41796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/488.json"
+      ]
+    },
+    {
+      "word": "인하",
+      "mean_abs": 0.416015625,
+      "mean_signed": -0.416015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/483.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]올리브영",
+      "mean_abs": 0.40625,
+      "mean_signed": -0.40625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/494.json"
+      ]
+    },
+    {
+      "word": "살리겠다\\\"[본문]문재인",
+      "mean_abs": 0.40545082092285156,
+      "mean_signed": -0.40545082092285156,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/441.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]IBK기업은행",
+      "mean_abs": 0.397705078125,
+      "mean_signed": 0.397705078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/433.json"
+      ]
+    },
+    {
+      "word": "기록[본문]세종시1-5생할권",
+      "mean_abs": 0.390167236328125,
+      "mean_signed": 0.390167236328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/465.json"
+      ]
+    },
+    {
+      "word": "연간1000명",
+      "mean_abs": 0.38720703125,
+      "mean_signed": 0.38720703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/473.json"
+      ]
+    },
+    {
+      "word": "‘오늘을",
+      "mean_abs": 0.378662109375,
+      "mean_signed": 0.378662109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/456.json"
+      ]
+    },
+    {
+      "word": "대전시민",
+      "mean_abs": 0.369140625,
+      "mean_signed": 0.369140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/442.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]풀무원,",
+      "mean_abs": 0.365234375,
+      "mean_signed": -0.365234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/451.json"
+      ]
+    },
+    {
+      "word": "활용…건보공단",
+      "mean_abs": 0.3651123046875,
+      "mean_signed": 0.3651123046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/446.json"
+      ]
+    },
+    {
+      "word": "포럼'",
+      "mean_abs": 0.334716796875,
+      "mean_signed": 0.334716796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/490.json"
+      ]
+    },
+    {
+      "word": "K리그와",
+      "mean_abs": 0.3345947265625,
+      "mean_signed": 0.3345947265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/468.json"
+      ]
+    },
+    {
+      "word": "개편에",
+      "mean_abs": 0.3330078125,
+      "mean_signed": 0.3330078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/430.json"
+      ]
+    },
+    {
+      "word": "큐셀,",
+      "mean_abs": 0.3306884765625,
+      "mean_signed": -0.3306884765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/444.json"
+      ]
+    },
+    {
+      "word": "'이커머스",
+      "mean_abs": 0.322021484375,
+      "mean_signed": -0.322021484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/430.json"
+      ]
+    },
+    {
+      "word": "‘위키드와이프’와",
+      "mean_abs": 0.319091796875,
+      "mean_signed": -0.319091796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/469.json"
+      ]
+    },
+    {
+      "word": "도입[본문]롯데호텔",
+      "mean_abs": 0.3115234375,
+      "mean_signed": 0.3115234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/478.json"
+      ]
+    },
+    {
+      "word": "지원\\\"[본문]하나은행이",
+      "mean_abs": 0.3077239990234375,
+      "mean_signed": 0.3077239990234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/455.json"
+      ]
+    },
+    {
+      "word": "더하기",
+      "mean_abs": 0.3046875,
+      "mean_signed": -0.3046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/474.json"
+      ]
+    },
+    {
+      "word": "송중기와",
+      "mean_abs": 0.2960205078125,
+      "mean_signed": 0.2960205078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/456.json"
+      ]
+    },
+    {
+      "word": "계약[본문]한화솔루션",
+      "mean_abs": 0.294921875,
+      "mean_signed": 0.294921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/444.json"
+      ]
+    }
+  ],
+  "AUTO_ET": [
+    {
+      "word": "넷[본문]대한민국",
+      "mean_abs": 1.9775390625,
+      "mean_signed": -1.9775390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/415.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]윤은혜",
+      "mean_abs": 1.919921875,
+      "mean_signed": -1.919921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/394.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]정형돈",
+      "mean_abs": 1.62890625,
+      "mean_signed": 1.62890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/374.json"
+      ]
+    },
+    {
+      "word": "'찰칵'[본문]'치인트'에",
+      "mean_abs": 1.220703125,
+      "mean_signed": 1.220703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/419.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]'K팝스타5'",
+      "mean_abs": 1.130126953125,
+      "mean_signed": -1.130126953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/393.json"
+      ]
+    },
+    {
+      "word": "스트레스'에",
+      "mean_abs": 0.9814453125,
+      "mean_signed": -0.9814453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/377.json"
+      ]
+    },
+    {
+      "word": "러브스토리→신혼",
+      "mean_abs": 0.896484375,
+      "mean_signed": -0.896484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/388.json"
+      ]
+    },
+    {
+      "word": "'울컥'[본문]‘자이언티",
+      "mean_abs": 0.8878173828125,
+      "mean_signed": 0.8878173828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/405.json"
+      ]
+    },
+    {
+      "word": "하차의사",
+      "mean_abs": 0.865234375,
+      "mean_signed": 0.865234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/374.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]이무진,8월",
+      "mean_abs": 0.8624267578125,
+      "mean_signed": 0.8624267578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/361.json"
+      ]
+    },
+    {
+      "word": "떠난",
+      "mean_abs": 0.7265625,
+      "mean_signed": -0.7265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/377.json"
+      ]
+    },
+    {
+      "word": "이석증",
+      "mean_abs": 0.708984375,
+      "mean_signed": -0.708984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/377.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]손담비♥이규혁,",
+      "mean_abs": 0.650634765625,
+      "mean_signed": 0.650634765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/388.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]‘히든싱어4’",
+      "mean_abs": 0.624267578125,
+      "mean_signed": 0.624267578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/385.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]이병헌,",
+      "mean_abs": 0.576171875,
+      "mean_signed": 0.576171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/378.json"
+      ]
+    },
+    {
+      "word": "‘동상이몽2’",
+      "mean_abs": 0.5684814453125,
+      "mean_signed": 0.5684814453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/388.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]유승준",
+      "mean_abs": 0.525146484375,
+      "mean_signed": 0.525146484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/387.json"
+      ]
+    },
+    {
+      "word": "스토커",
+      "mean_abs": 0.4670867919921875,
+      "mean_signed": -0.4670867919921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/396.json"
+      ]
+    },
+    {
+      "word": "보내는거지…\\\"",
+      "mean_abs": 0.456298828125,
+      "mean_signed": 0.456298828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/392.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]'치인트'",
+      "mean_abs": 0.453125,
+      "mean_signed": 0.453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/419.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]파격",
+      "mean_abs": 0.451171875,
+      "mean_signed": -0.451171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/367.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]최시원·최강창민",
+      "mean_abs": 0.441650390625,
+      "mean_signed": 0.441650390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/392.json"
+      ]
+    },
+    {
+      "word": "앓고",
+      "mean_abs": 0.427734375,
+      "mean_signed": -0.427734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/377.json"
+      ]
+    },
+    {
+      "word": "멋지다…신민아는",
+      "mean_abs": 0.4267578125,
+      "mean_signed": 0.4267578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/378.json"
+      ]
+    },
+    {
+      "word": "관전포인트",
+      "mean_abs": 0.42333984375,
+      "mean_signed": -0.42333984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/415.json"
+      ]
+    },
+    {
+      "word": "공개[본문]예비부부",
+      "mean_abs": 0.41650390625,
+      "mean_signed": 0.41650390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/388.json"
+      ]
+    },
+    {
+      "word": "김고은과",
+      "mean_abs": 0.412841796875,
+      "mean_signed": 0.412841796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/419.json"
+      ]
+    },
+    {
+      "word": "중국어",
+      "mean_abs": 0.380859375,
+      "mean_signed": 0.380859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/394.json"
+      ]
+    },
+    {
+      "word": "출격[본문]2AM의",
+      "mean_abs": 0.3770751953125,
+      "mean_signed": 0.3770751953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/373.json"
+      ]
+    },
+    {
+      "word": "모습마저",
+      "mean_abs": 0.3701171875,
+      "mean_signed": 0.3701171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/378.json"
+      ]
+    },
+    {
+      "word": "접근[종합][본문]강지영,",
+      "mean_abs": 0.35205078125,
+      "mean_signed": 0.35205078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/403.json"
+      ]
+    },
+    {
+      "word": "\\\"대중의",
+      "mean_abs": 0.35205078125,
+      "mean_signed": -0.35205078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/387.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]NS윤지,",
+      "mean_abs": 0.33984375,
+      "mean_signed": 0.33984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/377.json"
+      ]
+    },
+    {
+      "word": "기부",
+      "mean_abs": 0.32421875,
+      "mean_signed": -0.32421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/355.json"
+      ]
+    },
+    {
+      "word": "불안장애,",
+      "mean_abs": 0.314453125,
+      "mean_signed": 0.314453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/374.json"
+      ]
+    },
+    {
+      "word": "중",
+      "mean_abs": 0.314453125,
+      "mean_signed": 0.314453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/393.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]‘기상청",
+      "mean_abs": 0.3126220703125,
+      "mean_signed": 0.3126220703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/406.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]‘옷소매’2막",
+      "mean_abs": 0.307861328125,
+      "mean_signed": -0.307861328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/415.json"
+      ]
+    },
+    {
+      "word": "논란,원작자",
+      "mean_abs": 0.297607421875,
+      "mean_signed": -0.297607421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/421.json"
+      ]
+    },
+    {
+      "word": "최고\\\"[본문]'유제이'",
+      "mean_abs": 0.294921875,
+      "mean_signed": -0.294921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/393.json"
+      ]
+    },
+    {
+      "word": "해석해보니…[본문]윤은혜",
+      "mean_abs": 0.29388427734375,
+      "mean_signed": -0.29388427734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/394.json"
+      ]
+    },
+    {
+      "word": "‘안녕이란",
+      "mean_abs": 0.29388427734375,
+      "mean_signed": 0.29388427734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/412.json"
+      ]
+    },
+    {
+      "word": "\\\"'응답하라1988'",
+      "mean_abs": 0.29010009765625,
+      "mean_signed": 0.29010009765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/360.json"
+      ]
+    },
+    {
+      "word": "웃음꽃[본문]배우",
+      "mean_abs": 0.28759765625,
+      "mean_signed": 0.28759765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/378.json"
+      ]
+    },
+    {
+      "word": "소이현,",
+      "mean_abs": 0.286865234375,
+      "mean_signed": 0.286865234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/403.json"
+      ]
+    },
+    {
+      "word": "플리마켓",
+      "mean_abs": 0.27001953125,
+      "mean_signed": -0.27001953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/355.json"
+      ]
+    },
+    {
+      "word": "못",
+      "mean_abs": 0.267578125,
+      "mean_signed": 0.267578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/422.json"
+      ]
+    },
+    {
+      "word": "미국으로",
+      "mean_abs": 0.267578125,
+      "mean_signed": -0.267578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/377.json"
+      ]
+    },
+    {
+      "word": "SNS,",
+      "mean_abs": 0.26513671875,
+      "mean_signed": 0.26513671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/394.json"
+      ]
+    },
+    {
+      "word": "작사”[본문]배우",
+      "mean_abs": 0.261474609375,
+      "mean_signed": -0.261474609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/413.json"
+      ]
+    }
+  ],
+  "AUTO_GB": [
+    {
+      "word": "판단하라.[카테고리]GB[제목][원유마감]WTI0.4%↓…월간27%",
+      "mean_abs": 1.508270263671875,
+      "mean_signed": 1.508270263671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/346.json"
+      ]
+    },
+    {
+      "word": "'혐오범죄'로",
+      "mean_abs": 1.44482421875,
+      "mean_signed": 1.44482421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/352.json"
+      ]
+    },
+    {
+      "word": "전화위복…주방",
+      "mean_abs": 1.327880859375,
+      "mean_signed": 1.327880859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/312.json"
+      ]
+    },
+    {
+      "word": "한양도성",
+      "mean_abs": 1.1962890625,
+      "mean_signed": -1.1962890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/330.json"
+      ]
+    },
+    {
+      "word": "아시아",
+      "mean_abs": 1.1640625,
+      "mean_signed": 1.1640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/352.json"
+      ]
+    },
+    {
+      "word": "美남성",
+      "mean_abs": 1.00634765625,
+      "mean_signed": 1.00634765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/352.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]이스라엘-팔레스타인",
+      "mean_abs": 0.894287109375,
+      "mean_signed": 0.894287109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/314.json"
+      ]
+    },
+    {
+      "word": "멕시코서",
+      "mean_abs": 0.8515625,
+      "mean_signed": 0.8515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/309.json"
+      ]
+    },
+    {
+      "word": "‘12억짜리",
+      "mean_abs": 0.84765625,
+      "mean_signed": 0.84765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/312.json"
+      ]
+    },
+    {
+      "word": "“구한말",
+      "mean_abs": 0.8037109375,
+      "mean_signed": -0.8037109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/330.json"
+      ]
+    },
+    {
+      "word": "'자이언트",
+      "mean_abs": 0.7197265625,
+      "mean_signed": 0.7197265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/338.json"
+      ]
+    },
+    {
+      "word": "선언20년…세계의",
+      "mean_abs": 0.7147216796875,
+      "mean_signed": -0.7147216796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/308.json"
+      ]
+    },
+    {
+      "word": "출몰한",
+      "mean_abs": 0.6826171875,
+      "mean_signed": -0.6826171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/330.json"
+      ]
+    },
+    {
+      "word": "여성",
+      "mean_abs": 0.63671875,
+      "mean_signed": 0.63671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/352.json"
+      ]
+    },
+    {
+      "word": "아저씨…알고보니",
+      "mean_abs": 0.59625244140625,
+      "mean_signed": -0.59625244140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/347.json"
+      ]
+    },
+    {
+      "word": "행운’으로",
+      "mean_abs": 0.58544921875,
+      "mean_signed": 0.58544921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/312.json"
+      ]
+    },
+    {
+      "word": "무위…中",
+      "mean_abs": 0.57958984375,
+      "mean_signed": -0.57958984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/298.json"
+      ]
+    },
+    {
+      "word": "막는다[본문]미국이",
+      "mean_abs": 0.564208984375,
+      "mean_signed": 0.564208984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/349.json"
+      ]
+    },
+    {
+      "word": "사임…月2~3회",
+      "mean_abs": 0.554931640625,
+      "mean_signed": -0.554931640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/300.json"
+      ]
+    },
+    {
+      "word": "듯…뉴저지도",
+      "mean_abs": 0.544403076171875,
+      "mean_signed": -0.544403076171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/302.json"
+      ]
+    },
+    {
+      "word": "당첨",
+      "mean_abs": 0.5390625,
+      "mean_signed": -0.5390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/312.json"
+      ]
+    },
+    {
+      "word": "미얀마",
+      "mean_abs": 0.53515625,
+      "mean_signed": -0.53515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/336.json"
+      ]
+    },
+    {
+      "word": "알리바바9.8%",
+      "mean_abs": 0.52734375,
+      "mean_signed": 0.52734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/298.json"
+      ]
+    },
+    {
+      "word": "겨누나…",
+      "mean_abs": 0.5198974609375,
+      "mean_signed": 0.5198974609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/286.json"
+      ]
+    },
+    {
+      "word": "시신으로",
+      "mean_abs": 0.515625,
+      "mean_signed": -0.515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/336.json"
+      ]
+    },
+    {
+      "word": "도쿄고검장",
+      "mean_abs": 0.50830078125,
+      "mean_signed": -0.50830078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/300.json"
+      ]
+    },
+    {
+      "word": "생각하십니까][본문]미국",
+      "mean_abs": 0.50640869140625,
+      "mean_signed": -0.50640869140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/326.json"
+      ]
+    },
+    {
+      "word": "북미",
+      "mean_abs": 0.5,
+      "mean_signed": 0.5,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/309.json"
+      ]
+    },
+    {
+      "word": "군국주의",
+      "mean_abs": 0.46630859375,
+      "mean_signed": -0.46630859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/321.json"
+      ]
+    },
+    {
+      "word": "논란",
+      "mean_abs": 0.451171875,
+      "mean_signed": -0.451171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/326.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]우한",
+      "mean_abs": 0.443359375,
+      "mean_signed": 0.443359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/309.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]연준",
+      "mean_abs": 0.431640625,
+      "mean_signed": 0.431640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/338.json"
+      ]
+    },
+    {
+      "word": "상습도박[본문]‘코로나19",
+      "mean_abs": 0.43115234375,
+      "mean_signed": 0.43115234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/300.json"
+      ]
+    },
+    {
+      "word": "승리할",
+      "mean_abs": 0.427734375,
+      "mean_signed": 0.427734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/302.json"
+      ]
+    },
+    {
+      "word": "예상\\\"[본문]24일(현지시간)",
+      "mean_abs": 0.427734375,
+      "mean_signed": 0.427734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/325.json"
+      ]
+    },
+    {
+      "word": "증가[본문]신종",
+      "mean_abs": 0.4208984375,
+      "mean_signed": 0.4208984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/301.json"
+      ]
+    },
+    {
+      "word": "제거된",
+      "mean_abs": 0.3984375,
+      "mean_signed": 0.3984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/336.json"
+      ]
+    },
+    {
+      "word": "시인…\\\"저항",
+      "mean_abs": 0.3907470703125,
+      "mean_signed": -0.3907470703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/336.json"
+      ]
+    },
+    {
+      "word": "“가미카제는",
+      "mean_abs": 0.3779296875,
+      "mean_signed": -0.3779296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/321.json"
+      ]
+    },
+    {
+      "word": "결정",
+      "mean_abs": 0.373046875,
+      "mean_signed": 0.373046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/301.json"
+      ]
+    },
+    {
+      "word": "집어든",
+      "mean_abs": 0.3564453125,
+      "mean_signed": -0.3564453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/347.json"
+      ]
+    },
+    {
+      "word": "기소[본문]남아프리카에서",
+      "mean_abs": 0.3544921875,
+      "mean_signed": 0.3544921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/352.json"
+      ]
+    },
+    {
+      "word": "��칭��",
+      "mean_abs": 0.3494873046875,
+      "mean_signed": -0.3494873046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/286.json"
+      ]
+    },
+    {
+      "word": "코로나",
+      "mean_abs": 0.33251953125,
+      "mean_signed": -0.2547200520833333,
+      "n_docs": 3,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/335.json",
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/326.json",
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/305.json"
+      ]
+    },
+    {
+      "word": "합리적·효과적”",
+      "mean_abs": 0.32366943359375,
+      "mean_signed": 0.32366943359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/295.json"
+      ]
+    },
+    {
+      "word": "동안7명",
+      "mean_abs": 0.323577880859375,
+      "mean_signed": 0.323577880859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/352.json"
+      ]
+    },
+    {
+      "word": "부심[본문]우크라이나에",
+      "mean_abs": 0.32080078125,
+      "mean_signed": 0.32080078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/290.json"
+      ]
+    },
+    {
+      "word": "모델,",
+      "mean_abs": 0.315673828125,
+      "mean_signed": 0.315673828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/295.json"
+      ]
+    },
+    {
+      "word": "상징”[본문]사이버",
+      "mean_abs": 0.3076171875,
+      "mean_signed": -0.3076171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/321.json"
+      ]
+    },
+    {
+      "word": "논의”[본문]도널드",
+      "mean_abs": 0.3072509765625,
+      "mean_signed": 0.3072509765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/313.json"
+      ]
+    }
+  ],
+  "AUTO_IS": [
+    {
+      "word": "칼레니우스",
+      "mean_abs": 1.1904296875,
+      "mean_signed": 1.1904296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/232.json"
+      ]
+    },
+    {
+      "word": "생산하겠다\\\"[본문]올라",
+      "mean_abs": 1.088623046875,
+      "mean_signed": 1.088623046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/232.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]한국스마트이모빌리티협회,",
+      "mean_abs": 1.0850830078125,
+      "mean_signed": 1.0850830078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/231.json"
+      ]
+    },
+    {
+      "word": "선언...\\\"멜론",
+      "mean_abs": 0.98876953125,
+      "mean_signed": 0.98876953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/233.json"
+      ]
+    },
+    {
+      "word": "'H아트랩',2022년",
+      "mean_abs": 0.9775390625,
+      "mean_signed": -0.9775390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/224.json"
+      ]
+    },
+    {
+      "word": "전자+화학+V2X3콤보로",
+      "mean_abs": 0.9271316528320312,
+      "mean_signed": -0.9271316528320312,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/283.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]LGU+,",
+      "mean_abs": 0.88916015625,
+      "mean_signed": 0.88916015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/227.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]파수닷컴",
+      "mean_abs": 0.8853759765625,
+      "mean_signed": 0.8853759765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/268.json"
+      ]
+    },
+    {
+      "word": "금융권",
+      "mean_abs": 0.87890625,
+      "mean_signed": -0.87890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/270.json"
+      ]
+    },
+    {
+      "word": "순식간에",
+      "mean_abs": 0.84375,
+      "mean_signed": -0.84375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/241.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]라잇텍,",
+      "mean_abs": 0.783935546875,
+      "mean_signed": -0.783935546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/218.json"
+      ]
+    },
+    {
+      "word": "강화,",
+      "mean_abs": 0.68310546875,
+      "mean_signed": 0.68310546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/231.json"
+      ]
+    },
+    {
+      "word": "동났다[본문]인공지능(AI)이",
+      "mean_abs": 0.6383056640625,
+      "mean_signed": -0.6383056640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/241.json"
+      ]
+    },
+    {
+      "word": "NFT200점,",
+      "mean_abs": 0.632568359375,
+      "mean_signed": -0.632568359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/241.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]'엄마로봇'이",
+      "mean_abs": 0.6279296875,
+      "mean_signed": -0.6279296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/281.json"
+      ]
+    },
+    {
+      "word": "패러다임",
+      "mean_abs": 0.62109375,
+      "mean_signed": 0.62109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/231.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]'랜선'",
+      "mean_abs": 0.58984375,
+      "mean_signed": -0.58984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/237.json"
+      ]
+    },
+    {
+      "word": "사명",
+      "mean_abs": 0.5703125,
+      "mean_signed": -0.5703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/268.json"
+      ]
+    },
+    {
+      "word": "\\\"전문연구요원",
+      "mean_abs": 0.55908203125,
+      "mean_signed": 0.55908203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/265.json"
+      ]
+    },
+    {
+      "word": "제시…",
+      "mean_abs": 0.533203125,
+      "mean_signed": -0.533203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/231.json"
+      ]
+    },
+    {
+      "word": "도약\\\"[본문]파수닷컴이",
+      "mean_abs": 0.53125,
+      "mean_signed": 0.53125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/268.json"
+      ]
+    },
+    {
+      "word": "한국전자인증",
+      "mean_abs": 0.5216064453125,
+      "mean_signed": 0.5216064453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/236.json"
+      ]
+    },
+    {
+      "word": "UX",
+      "mean_abs": 0.5078125,
+      "mean_signed": -0.5078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/227.json"
+      ]
+    },
+    {
+      "word": "'농부로봇'이",
+      "mean_abs": 0.507568359375,
+      "mean_signed": -0.507568359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/281.json"
+      ]
+    },
+    {
+      "word": "\\\"파수로",
+      "mean_abs": 0.5048828125,
+      "mean_signed": 0.5048828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/268.json"
+      ]
+    },
+    {
+      "word": "렌털기기",
+      "mean_abs": 0.489990234375,
+      "mean_signed": 0.489990234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/237.json"
+      ]
+    },
+    {
+      "word": "'제주들불축제'",
+      "mean_abs": 0.4896240234375,
+      "mean_signed": -0.4896240234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/275.json"
+      ]
+    },
+    {
+      "word": "세계1위\\\"[본문]4K",
+      "mean_abs": 0.487762451171875,
+      "mean_signed": -0.487762451171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/215.json"
+      ]
+    },
+    {
+      "word": "변경…글로벌",
+      "mean_abs": 0.45263671875,
+      "mean_signed": 0.45263671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/268.json"
+      ]
+    },
+    {
+      "word": "“분과회",
+      "mean_abs": 0.45062255859375,
+      "mean_signed": 0.45062255859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/231.json"
+      ]
+    },
+    {
+      "word": "태양전지",
+      "mean_abs": 0.435546875,
+      "mean_signed": 0.435546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/223.json"
+      ]
+    },
+    {
+      "word": "한국기업데이터,",
+      "mean_abs": 0.38507080078125,
+      "mean_signed": 0.38507080078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/271.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]시만텍,",
+      "mean_abs": 0.3836669921875,
+      "mean_signed": -0.3836669921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/236.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]SKT,",
+      "mean_abs": 0.365234375,
+      "mean_signed": -0.365234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/275.json"
+      ]
+    },
+    {
+      "word": "차량",
+      "mean_abs": 0.345703125,
+      "mean_signed": -0.345703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/232.json"
+      ]
+    },
+    {
+      "word": "'근태관리",
+      "mean_abs": 0.3421630859375,
+      "mean_signed": 0.3421630859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/278.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]구글·시스코",
+      "mean_abs": 0.310089111328125,
+      "mean_signed": 0.310089111328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/257.json"
+      ]
+    },
+    {
+      "word": "한국화",
+      "mean_abs": 0.306640625,
+      "mean_signed": 0.306640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/241.json"
+      ]
+    },
+    {
+      "word": "대항[본문]시스코와",
+      "mean_abs": 0.29052734375,
+      "mean_signed": 0.29052734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/257.json"
+      ]
+    },
+    {
+      "word": "개발[본문]국내",
+      "mean_abs": 0.2861328125,
+      "mean_signed": 0.2861328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/223.json"
+      ]
+    },
+    {
+      "word": "성매개감염병",
+      "mean_abs": 0.28497314453125,
+      "mean_signed": -0.28497314453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/252.json"
+      ]
+    },
+    {
+      "word": "협력'…아마존에",
+      "mean_abs": 0.28485107421875,
+      "mean_signed": 0.28485107421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/257.json"
+      ]
+    },
+    {
+      "word": "'집닥",
+      "mean_abs": 0.2847900390625,
+      "mean_signed": 0.2847900390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/229.json"
+      ]
+    },
+    {
+      "word": "주목[본문]롯데그룹",
+      "mean_abs": 0.27734375,
+      "mean_signed": -0.27734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/214.json"
+      ]
+    },
+    {
+      "word": "공유서비스",
+      "mean_abs": 0.2724609375,
+      "mean_signed": -0.2724609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/231.json"
+      ]
+    },
+    {
+      "word": "채용[본문]LG유플러스는",
+      "mean_abs": 0.26904296875,
+      "mean_signed": -0.26904296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/227.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]집닥,",
+      "mean_abs": 0.26806640625,
+      "mean_signed": 0.26806640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/229.json"
+      ]
+    },
+    {
+      "word": "만들어야”[본문]5월",
+      "mean_abs": 0.2679443359375,
+      "mean_signed": -0.2679443359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/253.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]뷰노,",
+      "mean_abs": 0.26611328125,
+      "mean_signed": 0.26611328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/252.json"
+      ]
+    },
+    {
+      "word": "돼\\\"[본문]최기영",
+      "mean_abs": 0.26226806640625,
+      "mean_signed": 0.26226806640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/265.json"
+      ]
+    }
+  ],
+  "AUTO_LC": [
+    {
+      "word": "판단하라.[카테고리]LC[제목]갱년기에",
+      "mean_abs": 4.5810546875,
+      "mean_signed": -4.5810546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/205.json"
+      ]
+    },
+    {
+      "word": "불똥[본문]제약업계가",
+      "mean_abs": 1.62518310546875,
+      "mean_signed": -1.62518310546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/205.json"
+      ]
+    },
+    {
+      "word": "달에55만원…영화",
+      "mean_abs": 1.380859375,
+      "mean_signed": 1.380859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/206.json"
+      ]
+    },
+    {
+      "word": "한의사",
+      "mean_abs": 1.1806640625,
+      "mean_signed": 1.1806640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/173.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]오십견에",
+      "mean_abs": 0.89404296875,
+      "mean_signed": 0.89404296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/170.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]올해는",
+      "mean_abs": 0.8828125,
+      "mean_signed": 0.8828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/159.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]위스키를",
+      "mean_abs": 0.87548828125,
+      "mean_signed": 0.87548828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/183.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]히알루론산도",
+      "mean_abs": 0.8037109375,
+      "mean_signed": -0.8037109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/173.json"
+      ]
+    },
+    {
+      "word": "‘장원급제’",
+      "mean_abs": 0.78857421875,
+      "mean_signed": 0.78857421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/159.json"
+      ]
+    },
+    {
+      "word": "무면허로",
+      "mean_abs": 0.78466796875,
+      "mean_signed": 0.78466796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/173.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]신간『헬스케어",
+      "mean_abs": 0.72412109375,
+      "mean_signed": 0.72412109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/148.json"
+      ]
+    },
+    {
+      "word": "좋다던",
+      "mean_abs": 0.7109375,
+      "mean_signed": -0.7109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/205.json"
+      ]
+    },
+    {
+      "word": "구우면",
+      "mean_abs": 0.7109375,
+      "mean_signed": -0.7109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/183.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목][단독]",
+      "mean_abs": 0.698974609375,
+      "mean_signed": 0.698974609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/206.json"
+      ]
+    },
+    {
+      "word": "‘동강사진제’[본문]어수선했다.세찬",
+      "mean_abs": 0.66693115234375,
+      "mean_signed": -0.66693115234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/169.json"
+      ]
+    },
+    {
+      "word": "『치매",
+      "mean_abs": 0.6650390625,
+      "mean_signed": -0.6650390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/165.json"
+      ]
+    },
+    {
+      "word": "제한[본문]보건당국이",
+      "mean_abs": 0.642578125,
+      "mean_signed": 0.642578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/197.json"
+      ]
+    },
+    {
+      "word": "체조,",
+      "mean_abs": 0.6298828125,
+      "mean_signed": 0.6298828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/170.json"
+      ]
+    },
+    {
+      "word": "거북이는",
+      "mean_abs": 0.580078125,
+      "mean_signed": 0.580078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/165.json"
+      ]
+    },
+    {
+      "word": "활짝",
+      "mean_abs": 0.57421875,
+      "mean_signed": 0.57421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/163.json"
+      ]
+    },
+    {
+      "word": "시네마",
+      "mean_abs": 0.53125,
+      "mean_signed": 0.53125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/163.json"
+      ]
+    },
+    {
+      "word": "고혈압약",
+      "mean_abs": 0.5009765625,
+      "mean_signed": 0.5009765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/197.json"
+      ]
+    },
+    {
+      "word": "요리에",
+      "mean_abs": 0.482421875,
+      "mean_signed": -0.482421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/142.json"
+      ]
+    },
+    {
+      "word": "나오려나[본문]우리나라에",
+      "mean_abs": 0.46221923828125,
+      "mean_signed": 0.46221923828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/159.json"
+      ]
+    },
+    {
+      "word": "제약업계",
+      "mean_abs": 0.42578125,
+      "mean_signed": -0.42578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/205.json"
+      ]
+    },
+    {
+      "word": "소설",
+      "mean_abs": 0.41796875,
+      "mean_signed": -0.41796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/156.json"
+      ]
+    },
+    {
+      "word": "청소년만을",
+      "mean_abs": 0.3955078125,
+      "mean_signed": -0.3955078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/203.json"
+      ]
+    },
+    {
+      "word": "수유6개월이",
+      "mean_abs": 0.37353515625,
+      "mean_signed": -0.37353515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/185.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]‘마우스’",
+      "mean_abs": 0.373046875,
+      "mean_signed": -0.373046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/207.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]보건당국",
+      "mean_abs": 0.3719482421875,
+      "mean_signed": 0.3719482421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/197.json"
+      ]
+    },
+    {
+      "word": "후]6회[본문]쌈",
+      "mean_abs": 0.370849609375,
+      "mean_signed": -0.370849609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/156.json"
+      ]
+    },
+    {
+      "word": "본방사수[본문]불평등·불안정성…‘위기의",
+      "mean_abs": 0.3692626953125,
+      "mean_signed": -0.3692626953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/164.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]모유",
+      "mean_abs": 0.359375,
+      "mean_signed": -0.359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/185.json"
+      ]
+    },
+    {
+      "word": "엄마,",
+      "mean_abs": 0.35595703125,
+      "mean_signed": -0.35595703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/207.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]가을",
+      "mean_abs": 0.337890625,
+      "mean_signed": 0.337890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/177.json"
+      ]
+    },
+    {
+      "word": "이노베이션-이미",
+      "mean_abs": 0.325103759765625,
+      "mean_signed": 0.325103759765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/148.json"
+      ]
+    },
+    {
+      "word": "되어’[본문]다음달1~2일",
+      "mean_abs": 0.318603515625,
+      "mean_signed": 0.318603515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/187.json"
+      ]
+    },
+    {
+      "word": "천정하",
+      "mean_abs": 0.31201171875,
+      "mean_signed": -0.31201171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/207.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]한유한·정율성이",
+      "mean_abs": 0.3045654296875,
+      "mean_signed": 0.3045654296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/187.json"
+      ]
+    },
+    {
+      "word": "치국",
+      "mean_abs": 0.3017578125,
+      "mean_signed": 0.3017578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/207.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목][최진영",
+      "mean_abs": 0.28369140625,
+      "mean_signed": 0.28369140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/156.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]낮은",
+      "mean_abs": 0.28125,
+      "mean_signed": -0.28125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/154.json"
+      ]
+    },
+    {
+      "word": "판화",
+      "mean_abs": 0.27978515625,
+      "mean_signed": 0.27978515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/182.json"
+      ]
+    },
+    {
+      "word": "알았는데…결과는",
+      "mean_abs": 0.27520751953125,
+      "mean_signed": -0.27520751953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/192.json"
+      ]
+    },
+    {
+      "word": "‘품행장애’",
+      "mean_abs": 0.27407073974609375,
+      "mean_signed": -0.27407073974609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/190.json"
+      ]
+    },
+    {
+      "word": "가족]",
+      "mean_abs": 0.2568359375,
+      "mean_signed": 0.2568359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/165.json"
+      ]
+    },
+    {
+      "word": "서당서",
+      "mean_abs": 0.2451171875,
+      "mean_signed": 0.2451171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/159.json"
+      ]
+    },
+    {
+      "word": "‘두피건선’[본문]학원",
+      "mean_abs": 0.2401123046875,
+      "mean_signed": -0.2401123046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/192.json"
+      ]
+    },
+    {
+      "word": "미래』[본문]헬스케어",
+      "mean_abs": 0.23575973510742188,
+      "mean_signed": 0.23575973510742188,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/148.json"
+      ]
+    },
+    {
+      "word": "의료시술이라던",
+      "mean_abs": 0.2353515625,
+      "mean_signed": 0.2353515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/173.json"
+      ]
+    }
+  ],
+  "AUTO_PO": [
+    {
+      "word": "하차[본문]더불어민주당의",
+      "mean_abs": 1.92333984375,
+      "mean_signed": 1.92333984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/86.json"
+      ]
+    },
+    {
+      "word": "“시아버지가",
+      "mean_abs": 1.625,
+      "mean_signed": -1.625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/96.json"
+      ]
+    },
+    {
+      "word": "것”[본문]원희룡",
+      "mean_abs": 1.22265625,
+      "mean_signed": 1.22265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/133.json"
+      ]
+    },
+    {
+      "word": "전략폭격기2대,",
+      "mean_abs": 0.93701171875,
+      "mean_signed": 0.93701171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/131.json"
+      ]
+    },
+    {
+      "word": "특별검역",
+      "mean_abs": 0.85400390625,
+      "mean_signed": -0.85400390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/125.json"
+      ]
+    },
+    {
+      "word": "'출마'",
+      "mean_abs": 0.820556640625,
+      "mean_signed": 0.820556640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/101.json"
+      ]
+    },
+    {
+      "word": "재난지원금'…김",
+      "mean_abs": 0.814453125,
+      "mean_signed": 0.814453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/97.json"
+      ]
+    },
+    {
+      "word": "방식,",
+      "mean_abs": 0.7099609375,
+      "mean_signed": 0.7099609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/133.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]'대구청도",
+      "mean_abs": 0.6962890625,
+      "mean_signed": 0.6962890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/139.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]김진태,",
+      "mean_abs": 0.6787109375,
+      "mean_signed": -0.6787109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/107.json"
+      ]
+    },
+    {
+      "word": "코로나19",
+      "mean_abs": 0.677734375,
+      "mean_signed": -0.677734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/113.json"
+      ]
+    },
+    {
+      "word": "엉터리”[본문]더불어민주당이31일",
+      "mean_abs": 0.6708984375,
+      "mean_signed": 0.6708984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/75.json"
+      ]
+    },
+    {
+      "word": "봉쇄'에",
+      "mean_abs": 0.6689453125,
+      "mean_signed": -0.6689453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/139.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]靑",
+      "mean_abs": 0.62890625,
+      "mean_signed": 0.62890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/108.json"
+      ]
+    },
+    {
+      "word": "문대통령",
+      "mean_abs": 0.628173828125,
+      "mean_signed": -0.628173828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/139.json"
+      ]
+    },
+    {
+      "word": "'호적등본'",
+      "mean_abs": 0.59326171875,
+      "mean_signed": -0.59326171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/107.json"
+      ]
+    },
+    {
+      "word": "이유[본문]코로나19",
+      "mean_abs": 0.578125,
+      "mean_signed": 0.578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/139.json"
+      ]
+    },
+    {
+      "word": "��양향자",
+      "mean_abs": 0.55322265625,
+      "mean_signed": -0.55322265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/129.json"
+      ]
+    },
+    {
+      "word": "해명한",
+      "mean_abs": 0.5517578125,
+      "mean_signed": 0.5517578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/139.json"
+      ]
+    },
+    {
+      "word": "자식집에",
+      "mean_abs": 0.55078125,
+      "mean_signed": -0.55078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/96.json"
+      ]
+    },
+    {
+      "word": "태반주사,",
+      "mean_abs": 0.5330810546875,
+      "mean_signed": -0.5330810546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/94.json"
+      ]
+    },
+    {
+      "word": "부엌살림",
+      "mean_abs": 0.51953125,
+      "mean_signed": -0.51953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/96.json"
+      ]
+    },
+    {
+      "word": "\\\"정치권,",
+      "mean_abs": 0.514892578125,
+      "mean_signed": 0.514892578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/82.json"
+      ]
+    },
+    {
+      "word": "‘경력위조’",
+      "mean_abs": 0.49365234375,
+      "mean_signed": 0.49365234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/75.json"
+      ]
+    },
+    {
+      "word": "부부,25일",
+      "mean_abs": 0.48974609375,
+      "mean_signed": -0.48974609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/113.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]전",
+      "mean_abs": 0.484375,
+      "mean_signed": -0.484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/125.json"
+      ]
+    },
+    {
+      "word": "'입당'",
+      "mean_abs": 0.48046875,
+      "mean_signed": 0.48046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/101.json"
+      ]
+    },
+    {
+      "word": "첫날…공항",
+      "mean_abs": 0.473388671875,
+      "mean_signed": -0.473388671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/125.json"
+      ]
+    },
+    {
+      "word": "관련",
+      "mean_abs": 0.462890625,
+      "mean_signed": -0.462890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/133.json"
+      ]
+    },
+    {
+      "word": "“유증상자",
+      "mean_abs": 0.42333984375,
+      "mean_signed": -0.42333984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/125.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]‘인생극장",
+      "mean_abs": 0.4228515625,
+      "mean_signed": 0.4228515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/86.json"
+      ]
+    },
+    {
+      "word": "열리고",
+      "mean_abs": 0.419921875,
+      "mean_signed": 0.419921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/120.json"
+      ]
+    },
+    {
+      "word": "상공서9시간",
+      "mean_abs": 0.41748046875,
+      "mean_signed": 0.41748046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/131.json"
+      ]
+    },
+    {
+      "word": "입국”[본문]국민의당",
+      "mean_abs": 0.41668701171875,
+      "mean_signed": 0.41668701171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/125.json"
+      ]
+    },
+    {
+      "word": "고민해달라\\\"[본문]한덕수",
+      "mean_abs": 0.3973388671875,
+      "mean_signed": 0.3973388671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/134.json"
+      ]
+    },
+    {
+      "word": "분가한",
+      "mean_abs": 0.392578125,
+      "mean_signed": -0.392578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/96.json"
+      ]
+    },
+    {
+      "word": "자산”[본문]이재명",
+      "mean_abs": 0.390869140625,
+      "mean_signed": 0.390869140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/95.json"
+      ]
+    },
+    {
+      "word": "요구[본문]김진태",
+      "mean_abs": 0.3828125,
+      "mean_signed": 0.3828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/107.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]CJ택배기사",
+      "mean_abs": 0.37060546875,
+      "mean_signed": 0.37060546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/85.json"
+      ]
+    },
+    {
+      "word": "실명",
+      "mean_abs": 0.361328125,
+      "mean_signed": 0.361328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/107.json"
+      ]
+    },
+    {
+      "word": "대필",
+      "mean_abs": 0.361328125,
+      "mean_signed": 0.361328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/85.json"
+      ]
+    },
+    {
+      "word": "\\\"여력없다\\\"[본문]이재명",
+      "mean_abs": 0.347900390625,
+      "mean_signed": 0.347900390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/97.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]러시아",
+      "mean_abs": 0.33984375,
+      "mean_signed": 0.33984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/131.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]이재명",
+      "mean_abs": 0.318359375,
+      "mean_signed": 0.318359375,
+      "n_docs": 3,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/133.json",
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/97.json",
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/95.json"
+      ]
+    },
+    {
+      "word": "나중에",
+      "mean_abs": 0.314453125,
+      "mean_signed": -0.314453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/133.json"
+      ]
+    },
+    {
+      "word": "취소”[본문]지난8일",
+      "mean_abs": 0.312835693359375,
+      "mean_signed": 0.312835693359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/85.json"
+      ]
+    },
+    {
+      "word": "백신4차",
+      "mean_abs": 0.3037109375,
+      "mean_signed": 0.3037109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/113.json"
+      ]
+    },
+    {
+      "word": "“50조",
+      "mean_abs": 0.297607421875,
+      "mean_signed": -0.297607421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/123.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]文대통령",
+      "mean_abs": 0.296875,
+      "mean_signed": 0.296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/117.json"
+      ]
+    },
+    {
+      "word": "발행은",
+      "mean_abs": 0.2880859375,
+      "mean_signed": 0.2880859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/123.json"
+      ]
+    }
+  ],
+  "AUTO_SO": [
+    {
+      "word": "법조팀장이",
+      "mean_abs": 2.8359375,
+      "mean_signed": -2.8359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/15.json"
+      ]
+    },
+    {
+      "word": "알차게...'숏캉스'가",
+      "mean_abs": 2.5654296875,
+      "mean_signed": -2.5654296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/58.json"
+      ]
+    },
+    {
+      "word": "CJ로",
+      "mean_abs": 2.546875,
+      "mean_signed": -2.546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/15.json"
+      ]
+    },
+    {
+      "word": "건보료…자영업자",
+      "mean_abs": 1.9306640625,
+      "mean_signed": -1.9306640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/40.json"
+      ]
+    },
+    {
+      "word": "“시설환경에",
+      "mean_abs": 1.37353515625,
+      "mean_signed": 1.37353515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/65.json"
+      ]
+    },
+    {
+      "word": "걸렸네'…4명",
+      "mean_abs": 1.306640625,
+      "mean_signed": -1.306640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/10.json"
+      ]
+    },
+    {
+      "word": "이유[본문]기업이",
+      "mean_abs": 1.12109375,
+      "mean_signed": -1.12109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/15.json"
+      ]
+    },
+    {
+      "word": "누비자[본문]과거",
+      "mean_abs": 1.115234375,
+      "mean_signed": 1.115234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/57.json"
+      ]
+    },
+    {
+      "word": "생활기술학교,30일까지",
+      "mean_abs": 1.0357666015625,
+      "mean_signed": 1.0357666015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/13.json"
+      ]
+    },
+    {
+      "word": "간",
+      "mean_abs": 0.890625,
+      "mean_signed": -0.890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/15.json"
+      ]
+    },
+    {
+      "word": "장관57.5억원",
+      "mean_abs": 0.87890625,
+      "mean_signed": 0.87890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/27.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]동아일보",
+      "mean_abs": 0.87890625,
+      "mean_signed": 0.87890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/15.json"
+      ]
+    },
+    {
+      "word": "적립혜택…쇼핑라이브서도",
+      "mean_abs": 0.86767578125,
+      "mean_signed": -0.86767578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/37.json"
+      ]
+    },
+    {
+      "word": "공개...백운규",
+      "mean_abs": 0.73541259765625,
+      "mean_signed": 0.73541259765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/27.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]안산미디어라이브러리",
+      "mean_abs": 0.716552734375,
+      "mean_signed": -0.716552734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/36.json"
+      ]
+    },
+    {
+      "word": "학부모",
+      "mean_abs": 0.6953125,
+      "mean_signed": -0.6953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/36.json"
+      ]
+    },
+    {
+      "word": "입시영어",
+      "mean_abs": 0.6650390625,
+      "mean_signed": -0.6650390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/36.json"
+      ]
+    },
+    {
+      "word": "‘다수’[본문]파주시",
+      "mean_abs": 0.662841796875,
+      "mean_signed": 0.662841796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/26.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]경남에너지,",
+      "mean_abs": 0.6298828125,
+      "mean_signed": 0.6298828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/35.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]한나절",
+      "mean_abs": 0.5947265625,
+      "mean_signed": -0.5947265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/58.json"
+      ]
+    },
+    {
+      "word": "노제·영결식[본문]충남",
+      "mean_abs": 0.58544921875,
+      "mean_signed": 0.58544921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/0.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]쏠쏠했던",
+      "mean_abs": 0.568359375,
+      "mean_signed": -0.568359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/37.json"
+      ]
+    },
+    {
+      "word": "오리엔트",
+      "mean_abs": 0.568359375,
+      "mean_signed": 0.568359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/57.json"
+      ]
+    },
+    {
+      "word": "신설학교",
+      "mean_abs": 0.564453125,
+      "mean_signed": 0.564453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/65.json"
+      ]
+    },
+    {
+      "word": "면한다[본문]앞으로",
+      "mean_abs": 0.556640625,
+      "mean_signed": 0.556640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/69.json"
+      ]
+    },
+    {
+      "word": "'툭'…\\\"화나고",
+      "mean_abs": 0.5320968627929688,
+      "mean_signed": 0.5320968627929688,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/49.json"
+      ]
+    },
+    {
+      "word": "교사",
+      "mean_abs": 0.498046875,
+      "mean_signed": 0.498046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/65.json"
+      ]
+    },
+    {
+      "word": "상여금72만원",
+      "mean_abs": 0.495849609375,
+      "mean_signed": 0.495849609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/8.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]은퇴세대",
+      "mean_abs": 0.4853515625,
+      "mean_signed": 0.4853515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/13.json"
+      ]
+    },
+    {
+      "word": "김용균",
+      "mean_abs": 0.4736328125,
+      "mean_signed": 0.4736328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/0.json"
+      ]
+    },
+    {
+      "word": "반부패부에",
+      "mean_abs": 0.4666748046875,
+      "mean_signed": 0.4666748046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/47.json"
+      ]
+    },
+    {
+      "word": "산업부",
+      "mean_abs": 0.4638671875,
+      "mean_signed": 0.4638671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/27.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]전북지역",
+      "mean_abs": 0.4638671875,
+      "mean_signed": 0.4638671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/65.json"
+      ]
+    },
+    {
+      "word": "힘써야”[본문]이재명",
+      "mean_abs": 0.461669921875,
+      "mean_signed": 0.461669921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/39.json"
+      ]
+    },
+    {
+      "word": "경찰·소방차,",
+      "mean_abs": 0.4422454833984375,
+      "mean_signed": 0.4422454833984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/69.json"
+      ]
+    },
+    {
+      "word": "개최…11월",
+      "mean_abs": 0.4326019287109375,
+      "mean_signed": 0.4326019287109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/38.json"
+      ]
+    },
+    {
+      "word": "없어졌네?[본문]네이버가",
+      "mean_abs": 0.41387939453125,
+      "mean_signed": 0.41387939453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/37.json"
+      ]
+    },
+    {
+      "word": "일요일",
+      "mean_abs": 0.36328125,
+      "mean_signed": 0.36328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/35.json"
+      ]
+    },
+    {
+      "word": "중단[본문]경남지역",
+      "mean_abs": 0.3583984375,
+      "mean_signed": 0.3583984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/35.json"
+      ]
+    },
+    {
+      "word": "방문서비스",
+      "mean_abs": 0.3544921875,
+      "mean_signed": 0.3544921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/35.json"
+      ]
+    },
+    {
+      "word": "규탄\\\"[본문]경기도",
+      "mean_abs": 0.353759765625,
+      "mean_signed": 0.353759765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/60.json"
+      ]
+    },
+    {
+      "word": "노홍철…건물7억",
+      "mean_abs": 0.3489990234375,
+      "mean_signed": 0.3489990234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/9.json"
+      ]
+    },
+    {
+      "word": "말라더라\\\"[본문]김학의",
+      "mean_abs": 0.32513427734375,
+      "mean_signed": 0.32513427734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/47.json"
+      ]
+    },
+    {
+      "word": "증진에",
+      "mean_abs": 0.3193359375,
+      "mean_signed": 0.3193359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/39.json"
+      ]
+    },
+    {
+      "word": "불법출금,",
+      "mean_abs": 0.31103515625,
+      "mean_signed": 0.31103515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/47.json"
+      ]
+    },
+    {
+      "word": "한복판서",
+      "mean_abs": 0.30712890625,
+      "mean_signed": -0.30712890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/28.json"
+      ]
+    },
+    {
+      "word": "위장한",
+      "mean_abs": 0.299072265625,
+      "mean_signed": -0.299072265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/10.json"
+      ]
+    },
+    {
+      "word": "토·일요일[본문]코로나19로",
+      "mean_abs": 0.290374755859375,
+      "mean_signed": 0.290374755859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/38.json"
+      ]
+    },
+    {
+      "word": "아시아를",
+      "mean_abs": 0.2899169921875,
+      "mean_signed": 0.2899169921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/57.json"
+      ]
+    },
+    {
+      "word": "대학생들,",
+      "mean_abs": 0.284912109375,
+      "mean_signed": -0.284912109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/61.json"
+      ]
+    }
+  ],
+  "DIRECT_EC": [
+    {
+      "word": "최초?[본문]한국기초과학지원연구원과",
+      "mean_abs": 1.73974609375,
+      "mean_signed": 1.73974609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/956.json"
+      ]
+    },
+    {
+      "word": "낮은",
+      "mean_abs": 1.6484375,
+      "mean_signed": 1.6484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/988.json"
+      ]
+    },
+    {
+      "word": "언제쯤?[본문]세종시",
+      "mean_abs": 1.6396484375,
+      "mean_signed": 1.6396484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/972.json"
+      ]
+    },
+    {
+      "word": "짓는다더니...",
+      "mean_abs": 1.48046875,
+      "mean_signed": 1.48046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/937.json"
+      ]
+    },
+    {
+      "word": "이것은?[본문]국내에",
+      "mean_abs": 1.416015625,
+      "mean_signed": 1.416015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/924.json"
+      ]
+    },
+    {
+      "word": "사용될",
+      "mean_abs": 1.296875,
+      "mean_signed": -1.296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/972.json"
+      ]
+    },
+    {
+      "word": "오지고",
+      "mean_abs": 1.2421875,
+      "mean_signed": 1.2421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/931.json"
+      ]
+    },
+    {
+      "word": "신박한",
+      "mean_abs": 1.14892578125,
+      "mean_signed": -1.14892578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/940.json"
+      ]
+    },
+    {
+      "word": "회사'는?[본문]KG그룹이",
+      "mean_abs": 1.10552978515625,
+      "mean_signed": 1.10552978515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/930.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]한국자산관리공사.",
+      "mean_abs": 1.097412109375,
+      "mean_signed": 1.097412109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/967.json"
+      ]
+    },
+    {
+      "word": "기업체들은",
+      "mean_abs": 1.00390625,
+      "mean_signed": 1.00390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/977.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]콕콕114-KB국민카드,",
+      "mean_abs": 0.9942626953125,
+      "mean_signed": 0.9942626953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/983.json"
+      ]
+    },
+    {
+      "word": "분양",
+      "mean_abs": 0.9296875,
+      "mean_signed": 0.9296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/972.json"
+      ]
+    },
+    {
+      "word": "쏟아진다…",
+      "mean_abs": 0.9111328125,
+      "mean_signed": -0.9111328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/931.json"
+      ]
+    },
+    {
+      "word": "이어지나?[본문]“내년도",
+      "mean_abs": 0.900390625,
+      "mean_signed": 0.900390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/932.json"
+      ]
+    },
+    {
+      "word": "이유는?[본문]보상률31%",
+      "mean_abs": 0.899169921875,
+      "mean_signed": 0.899169921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/988.json"
+      ]
+    },
+    {
+      "word": "근로장려금",
+      "mean_abs": 0.89501953125,
+      "mean_signed": -0.89501953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/969.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]미스터피자,",
+      "mean_abs": 0.8857421875,
+      "mean_signed": 0.8857421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/940.json"
+      ]
+    },
+    {
+      "word": "KFC에",
+      "mean_abs": 0.869140625,
+      "mean_signed": 0.869140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/930.json"
+      ]
+    },
+    {
+      "word": "어떤",
+      "mean_abs": 0.828125,
+      "mean_signed": 0.828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/977.json"
+      ]
+    },
+    {
+      "word": "언제까지",
+      "mean_abs": 0.82421875,
+      "mean_signed": -0.82421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/932.json"
+      ]
+    },
+    {
+      "word": "포함됐다는데[본문]한국자산관리공사(캠코)는",
+      "mean_abs": 0.7425384521484375,
+      "mean_signed": 0.7425384521484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/967.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]1억1000만년",
+      "mean_abs": 0.736328125,
+      "mean_signed": 0.736328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/929.json"
+      ]
+    },
+    {
+      "word": "전용상품",
+      "mean_abs": 0.7236328125,
+      "mean_signed": -0.7236328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/926.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]불확실성",
+      "mean_abs": 0.722900390625,
+      "mean_signed": 0.722900390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/932.json"
+      ]
+    },
+    {
+      "word": "공개되는",
+      "mean_abs": 0.7177734375,
+      "mean_signed": 0.7177734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/924.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]하림",
+      "mean_abs": 0.716796875,
+      "mean_signed": 0.716796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/985.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]상조업체",
+      "mean_abs": 0.716796875,
+      "mean_signed": 0.716796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/988.json"
+      ]
+    },
+    {
+      "word": "서비스는?[본문]삼성카드는",
+      "mean_abs": 0.685546875,
+      "mean_signed": 0.685546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/926.json"
+      ]
+    },
+    {
+      "word": "시기는",
+      "mean_abs": 0.63671875,
+      "mean_signed": 0.63671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/972.json"
+      ]
+    },
+    {
+      "word": "출시...고객이",
+      "mean_abs": 0.62646484375,
+      "mean_signed": -0.62646484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/926.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]대전·세종",
+      "mean_abs": 0.6240234375,
+      "mean_signed": 0.6240234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/977.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]GRAST,",
+      "mean_abs": 0.62109375,
+      "mean_signed": -0.62109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/956.json"
+      ]
+    },
+    {
+      "word": "영향을?[본문]지난해",
+      "mean_abs": 0.6156005859375,
+      "mean_signed": 0.6156005859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/984.json"
+      ]
+    },
+    {
+      "word": "예정,",
+      "mean_abs": 0.613037109375,
+      "mean_signed": -0.613037109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/972.json"
+      ]
+    },
+    {
+      "word": "부족한",
+      "mean_abs": 0.609375,
+      "mean_signed": 0.609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/924.json"
+      ]
+    },
+    {
+      "word": "인수한",
+      "mean_abs": 0.6015625,
+      "mean_signed": 0.6015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/930.json"
+      ]
+    },
+    {
+      "word": "동ㆍ주택형",
+      "mean_abs": 0.57568359375,
+      "mean_signed": -0.57568359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/954.json"
+      ]
+    },
+    {
+      "word": "'이",
+      "mean_abs": 0.5693359375,
+      "mean_signed": 0.5693359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/930.json"
+      ]
+    },
+    {
+      "word": "이어1,450억원에",
+      "mean_abs": 0.5625,
+      "mean_signed": 0.5625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/930.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]한결요양원,",
+      "mean_abs": 0.56201171875,
+      "mean_signed": -0.56201171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/945.json"
+      ]
+    },
+    {
+      "word": "대부·매각...",
+      "mean_abs": 0.55419921875,
+      "mean_signed": 0.55419921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/967.json"
+      ]
+    },
+    {
+      "word": "역대",
+      "mean_abs": 0.54296875,
+      "mean_signed": -0.54296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/938.json"
+      ]
+    },
+    {
+      "word": "각광[본문]고령인구가",
+      "mean_abs": 0.5406494140625,
+      "mean_signed": -0.5406494140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/945.json"
+      ]
+    },
+    {
+      "word": "드러나나[본문]검찰이",
+      "mean_abs": 0.538330078125,
+      "mean_signed": -0.538330078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/946.json"
+      ]
+    },
+    {
+      "word": "확대",
+      "mean_abs": 0.53515625,
+      "mean_signed": -0.53515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/932.json"
+      ]
+    },
+    {
+      "word": "지났나…추석",
+      "mean_abs": 0.52880859375,
+      "mean_signed": -0.52880859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/927.json"
+      ]
+    },
+    {
+      "word": "내역이",
+      "mean_abs": 0.5263671875,
+      "mean_signed": 0.5263671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/924.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]EC[제목]세종시",
+      "mean_abs": 0.515625,
+      "mean_signed": 0.515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/972.json"
+      ]
+    },
+    {
+      "word": "불황에",
+      "mean_abs": 0.508056640625,
+      "mean_signed": 0.508056640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/984.json"
+      ]
+    }
+  ],
+  "DIRECT_ET": [
+    {
+      "word": "사연은?[본문]걸그룹",
+      "mean_abs": 2.0863189697265625,
+      "mean_signed": 2.0863189697265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/865.json"
+      ]
+    },
+    {
+      "word": "비교해보니?[본문]박소담",
+      "mean_abs": 1.81396484375,
+      "mean_signed": 1.81396484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/876.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]'알고있지만,'",
+      "mean_abs": 1.6875,
+      "mean_signed": -1.6875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/886.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]홍석천,",
+      "mean_abs": 1.556396484375,
+      "mean_signed": 1.556396484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/905.json"
+      ]
+    },
+    {
+      "word": "도플갱어",
+      "mean_abs": 1.19921875,
+      "mean_signed": -1.19921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/876.json"
+      ]
+    },
+    {
+      "word": "비하인드",
+      "mean_abs": 1.1953125,
+      "mean_signed": 1.1953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/886.json"
+      ]
+    },
+    {
+      "word": "신소율,",
+      "mean_abs": 1.173095703125,
+      "mean_signed": 1.173095703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/920.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]정소민",
+      "mean_abs": 1.1650390625,
+      "mean_signed": -1.1650390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/914.json"
+      ]
+    },
+    {
+      "word": "팔기?[본문]'언프리티",
+      "mean_abs": 1.1312255859375,
+      "mean_signed": 1.1312255859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/854.json"
+      ]
+    },
+    {
+      "word": "데이트가",
+      "mean_abs": 1.1201171875,
+      "mean_signed": -1.1201171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/914.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]프로답게",
+      "mean_abs": 0.9765625,
+      "mean_signed": 0.9765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/853.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]구별",
+      "mean_abs": 0.9453125,
+      "mean_signed": -0.9453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/877.json"
+      ]
+    },
+    {
+      "word": "작가도?[본문]네이버웹툰",
+      "mean_abs": 0.88720703125,
+      "mean_signed": 0.88720703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/852.json"
+      ]
+    },
+    {
+      "word": "‘셀럽파이브’,",
+      "mean_abs": 0.8828125,
+      "mean_signed": -0.8828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/875.json"
+      ]
+    },
+    {
+      "word": "날짜는?[본문]트와이스가",
+      "mean_abs": 0.8800048828125,
+      "mean_signed": 0.8800048828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/860.json"
+      ]
+    },
+    {
+      "word": "헌팅을",
+      "mean_abs": 0.8759765625,
+      "mean_signed": 0.8759765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/859.json"
+      ]
+    },
+    {
+      "word": "비밀스러운",
+      "mean_abs": 0.8359375,
+      "mean_signed": 0.8359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/863.json"
+      ]
+    },
+    {
+      "word": "Feels’(더",
+      "mean_abs": 0.81396484375,
+      "mean_signed": -0.81396484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/860.json"
+      ]
+    },
+    {
+      "word": "과거에",
+      "mean_abs": 0.75390625,
+      "mean_signed": 0.75390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/917.json"
+      ]
+    },
+    {
+      "word": "세",
+      "mean_abs": 0.75,
+      "mean_signed": 0.75,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/886.json"
+      ]
+    },
+    {
+      "word": "원해...",
+      "mean_abs": 0.740234375,
+      "mean_signed": 0.740234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/863.json"
+      ]
+    },
+    {
+      "word": "올린",
+      "mean_abs": 0.734375,
+      "mean_signed": 0.734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/907.json"
+      ]
+    },
+    {
+      "word": "크리스탈`",
+      "mean_abs": 0.734375,
+      "mean_signed": -0.734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/877.json"
+      ]
+    },
+    {
+      "word": "떠났다[본문]배우",
+      "mean_abs": 0.7265625,
+      "mean_signed": -0.7265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/920.json"
+      ]
+    },
+    {
+      "word": "'놀라워'[본문]가수",
+      "mean_abs": 0.7177734375,
+      "mean_signed": -0.7177734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/859.json"
+      ]
+    },
+    {
+      "word": "당황한",
+      "mean_abs": 0.703125,
+      "mean_signed": 0.703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/854.json"
+      ]
+    },
+    {
+      "word": "스타쉽의",
+      "mean_abs": 0.70068359375,
+      "mean_signed": 0.70068359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/854.json"
+      ]
+    },
+    {
+      "word": "안가는",
+      "mean_abs": 0.69921875,
+      "mean_signed": 0.69921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/877.json"
+      ]
+    },
+    {
+      "word": "이용녀,",
+      "mean_abs": 0.690673828125,
+      "mean_signed": -0.690673828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/896.json"
+      ]
+    },
+    {
+      "word": "'버가부',",
+      "mean_abs": 0.6806640625,
+      "mean_signed": -0.6806640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/865.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]'언프리티",
+      "mean_abs": 0.67333984375,
+      "mean_signed": 0.67333984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/854.json"
+      ]
+    },
+    {
+      "word": "방향은?[본문]가수",
+      "mean_abs": 0.6705322265625,
+      "mean_signed": -0.6705322265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/903.json"
+      ]
+    },
+    {
+      "word": "화제인",
+      "mean_abs": 0.666015625,
+      "mean_signed": -0.666015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/914.json"
+      ]
+    },
+    {
+      "word": "코리아'에서",
+      "mean_abs": 0.600341796875,
+      "mean_signed": -0.600341796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/861.json"
+      ]
+    },
+    {
+      "word": "해명",
+      "mean_abs": 0.5703125,
+      "mean_signed": -0.5703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/905.json"
+      ]
+    },
+    {
+      "word": "컴백",
+      "mean_abs": 0.56640625,
+      "mean_signed": 0.56640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/860.json"
+      ]
+    },
+    {
+      "word": "커트머리",
+      "mean_abs": 0.556640625,
+      "mean_signed": 0.556640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/876.json"
+      ]
+    },
+    {
+      "word": "전후가",
+      "mean_abs": 0.537109375,
+      "mean_signed": 0.537109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/852.json"
+      ]
+    },
+    {
+      "word": "♥고소영에",
+      "mean_abs": 0.536865234375,
+      "mean_signed": -0.536865234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/888.json"
+      ]
+    },
+    {
+      "word": "BTS,2021년",
+      "mean_abs": 0.5341796875,
+      "mean_signed": -0.5341796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/881.json"
+      ]
+    },
+    {
+      "word": "출연...",
+      "mean_abs": 0.52734375,
+      "mean_signed": 0.52734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/854.json"
+      ]
+    },
+    {
+      "word": "시어는?[본문]원제",
+      "mean_abs": 0.527099609375,
+      "mean_signed": 0.527099609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/907.json"
+      ]
+    },
+    {
+      "word": "그",
+      "mean_abs": 0.5234375,
+      "mean_signed": 0.5234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/863.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]걸그룹",
+      "mean_abs": 0.515625,
+      "mean_signed": 0.515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/865.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]ET[제목]섹시한",
+      "mean_abs": 0.5126953125,
+      "mean_signed": 0.5126953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/903.json"
+      ]
+    },
+    {
+      "word": "자\\\"[본문]나인뮤지스",
+      "mean_abs": 0.5089111328125,
+      "mean_signed": -0.5089111328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/902.json"
+      ]
+    },
+    {
+      "word": "비법…\\\"다리",
+      "mean_abs": 0.5019683837890625,
+      "mean_signed": -0.5019683837890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/902.json"
+      ]
+    },
+    {
+      "word": "필스),",
+      "mean_abs": 0.49169921875,
+      "mean_signed": -0.49169921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/860.json"
+      ]
+    },
+    {
+      "word": "입원…무슨",
+      "mean_abs": 0.480712890625,
+      "mean_signed": -0.480712890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/896.json"
+      ]
+    },
+    {
+      "word": "평범한",
+      "mean_abs": 0.48046875,
+      "mean_signed": 0.48046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/907.json"
+      ]
+    }
+  ],
+  "DIRECT_GB": [
+    {
+      "word": "죽어나나?[본문]국제유가가4거래일",
+      "mean_abs": 2.92236328125,
+      "mean_signed": -2.92236328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/811.json"
+      ]
+    },
+    {
+      "word": "남아의",
+      "mean_abs": 2.4453125,
+      "mean_signed": 2.4453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/804.json"
+      ]
+    },
+    {
+      "word": "밝혀…[본문]미국이",
+      "mean_abs": 2.29638671875,
+      "mean_signed": 2.29638671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/793.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]CCTV에",
+      "mean_abs": 1.8798828125,
+      "mean_signed": 1.8798828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/804.json"
+      ]
+    },
+    {
+      "word": "잡힌18개월",
+      "mean_abs": 1.86474609375,
+      "mean_signed": -1.86474609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/804.json"
+      ]
+    },
+    {
+      "word": "박살나다[본문]북한이",
+      "mean_abs": 1.85455322265625,
+      "mean_signed": -1.85455322265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/787.json"
+      ]
+    },
+    {
+      "word": "던져[본문]미국의",
+      "mean_abs": 1.6943359375,
+      "mean_signed": 1.6943359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/804.json"
+      ]
+    },
+    {
+      "word": "행동...",
+      "mean_abs": 1.509765625,
+      "mean_signed": -1.509765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/804.json"
+      ]
+    },
+    {
+      "word": "주가가",
+      "mean_abs": 1.5078125,
+      "mean_signed": -1.5078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/813.json"
+      ]
+    },
+    {
+      "word": "'이것'",
+      "mean_abs": 1.33880615234375,
+      "mean_signed": 1.24713134765625,
+      "n_docs": 2,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/804.json",
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/800.json"
+      ]
+    },
+    {
+      "word": "협정에",
+      "mean_abs": 1.2265625,
+      "mean_signed": 1.2265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/793.json"
+      ]
+    },
+    {
+      "word": "누나에게",
+      "mean_abs": 1.22265625,
+      "mean_signed": 1.22265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/804.json"
+      ]
+    },
+    {
+      "word": "최고",
+      "mean_abs": 1.171875,
+      "mean_signed": 1.171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/811.json"
+      ]
+    },
+    {
+      "word": "반대로",
+      "mean_abs": 1.15625,
+      "mean_signed": 1.15625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/813.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]전날보다1.86%하락...",
+      "mean_abs": 1.106689453125,
+      "mean_signed": 1.106689453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/803.json"
+      ]
+    },
+    {
+      "word": "美경제성장률은",
+      "mean_abs": 1.099609375,
+      "mean_signed": 1.099609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/841.json"
+      ]
+    },
+    {
+      "word": "소용...",
+      "mean_abs": 0.989990234375,
+      "mean_signed": 0.989990234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/811.json"
+      ]
+    },
+    {
+      "word": "주가",
+      "mean_abs": 0.95703125,
+      "mean_signed": 0.95703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/813.json"
+      ]
+    },
+    {
+      "word": "호재",
+      "mean_abs": 0.92578125,
+      "mean_signed": 0.92578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/803.json"
+      ]
+    },
+    {
+      "word": "외무장관,",
+      "mean_abs": 0.896484375,
+      "mean_signed": 0.896484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/793.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]리비안·루시드",
+      "mean_abs": 0.89208984375,
+      "mean_signed": -0.89208984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/813.json"
+      ]
+    },
+    {
+      "word": "무슨",
+      "mean_abs": 0.80078125,
+      "mean_signed": -0.80078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/811.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]여객기",
+      "mean_abs": 0.7724609375,
+      "mean_signed": 0.7724609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/839.json"
+      ]
+    },
+    {
+      "word": "년을",
+      "mean_abs": 0.765625,
+      "mean_signed": 0.765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/787.json"
+      ]
+    },
+    {
+      "word": "된",
+      "mean_abs": 0.75,
+      "mean_signed": 0.75,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/804.json"
+      ]
+    },
+    {
+      "word": "유가",
+      "mean_abs": 0.75,
+      "mean_signed": -0.75,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/811.json"
+      ]
+    },
+    {
+      "word": "쿠데타?...",
+      "mean_abs": 0.708984375,
+      "mean_signed": -0.708984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/788.json"
+      ]
+    },
+    {
+      "word": "강화하겠다",
+      "mean_abs": 0.6962890625,
+      "mean_signed": 0.6962890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/793.json"
+      ]
+    },
+    {
+      "word": "어떤",
+      "mean_abs": 0.6953125,
+      "mean_signed": 0.6953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/831.json"
+      ]
+    },
+    {
+      "word": "수준,",
+      "mean_abs": 0.68951416015625,
+      "mean_signed": 0.68951416015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/811.json"
+      ]
+    },
+    {
+      "word": "합의가",
+      "mean_abs": 0.6796875,
+      "mean_signed": 0.6796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/825.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]'이곳'",
+      "mean_abs": 0.67578125,
+      "mean_signed": 0.67578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/788.json"
+      ]
+    },
+    {
+      "word": "여론조사서",
+      "mean_abs": 0.650390625,
+      "mean_signed": 0.650390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/790.json"
+      ]
+    },
+    {
+      "word": "성공…6명",
+      "mean_abs": 0.637939453125,
+      "mean_signed": 0.637939453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/826.json"
+      ]
+    },
+    {
+      "word": "선출되나?",
+      "mean_abs": 0.6376953125,
+      "mean_signed": 0.6376953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/790.json"
+      ]
+    },
+    {
+      "word": "한계...",
+      "mean_abs": 0.625,
+      "mean_signed": 0.625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/830.json"
+      ]
+    },
+    {
+      "word": "규모는",
+      "mean_abs": 0.62109375,
+      "mean_signed": 0.62109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/841.json"
+      ]
+    },
+    {
+      "word": "작품?[본문]일본",
+      "mean_abs": 0.61669921875,
+      "mean_signed": 0.61669921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/831.json"
+      ]
+    },
+    {
+      "word": "코로나19",
+      "mean_abs": 0.615234375,
+      "mean_signed": 0.615234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/821.json"
+      ]
+    },
+    {
+      "word": "않은",
+      "mean_abs": 0.609375,
+      "mean_signed": 0.609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/799.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]코로나193차",
+      "mean_abs": 0.5853271484375,
+      "mean_signed": 0.5853271484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/830.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]'베이조스'",
+      "mean_abs": 0.57958984375,
+      "mean_signed": -0.57958984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/826.json"
+      ]
+    },
+    {
+      "word": "유럽은",
+      "mean_abs": 0.578125,
+      "mean_signed": 0.578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/830.json"
+      ]
+    },
+    {
+      "word": "'넘사벽'으로",
+      "mean_abs": 0.565185546875,
+      "mean_signed": 0.565185546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/830.json"
+      ]
+    },
+    {
+      "word": "이유는?[본문]미국",
+      "mean_abs": 0.5517578125,
+      "mean_signed": 0.5517578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/795.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]카시스",
+      "mean_abs": 0.5498046875,
+      "mean_signed": 0.5498046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/793.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]정호연·마동석,",
+      "mean_abs": 0.536376953125,
+      "mean_signed": 0.536376953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/781.json"
+      ]
+    },
+    {
+      "word": "'킹속의",
+      "mean_abs": 0.534423828125,
+      "mean_signed": -0.534423828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/825.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]GB[제목]현대글로비스",
+      "mean_abs": 0.505859375,
+      "mean_signed": 0.505859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/785.json"
+      ]
+    },
+    {
+      "word": "돈",
+      "mean_abs": 0.50390625,
+      "mean_signed": -0.50390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/811.json"
+      ]
+    }
+  ],
+  "DIRECT_IS": [
+    {
+      "word": "끊어지나…",
+      "mean_abs": 1.6416015625,
+      "mean_signed": -1.6416015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/740.json"
+      ]
+    },
+    {
+      "word": "명줄",
+      "mean_abs": 1.181640625,
+      "mean_signed": -1.181640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/740.json"
+      ]
+    },
+    {
+      "word": "선보인",
+      "mean_abs": 1.1640625,
+      "mean_signed": 1.1640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/718.json"
+      ]
+    },
+    {
+      "word": "'에어팟3',",
+      "mean_abs": 1.14111328125,
+      "mean_signed": -1.14111328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/764.json"
+      ]
+    },
+    {
+      "word": "곳에서",
+      "mean_abs": 1.0625,
+      "mean_signed": -1.0625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/774.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]한국수력원자력,",
+      "mean_abs": 1.017578125,
+      "mean_signed": -1.017578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/721.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]한컴,1Q",
+      "mean_abs": 1.001220703125,
+      "mean_signed": 1.001220703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/775.json"
+      ]
+    },
+    {
+      "word": "결합한",
+      "mean_abs": 0.9765625,
+      "mean_signed": 0.9765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/718.json"
+      ]
+    },
+    {
+      "word": "적극적으로",
+      "mean_abs": 0.97265625,
+      "mean_signed": 0.97265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/718.json"
+      ]
+    },
+    {
+      "word": "기업은?[본문]중국",
+      "mean_abs": 0.9029541015625,
+      "mean_signed": 0.9029541015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/718.json"
+      ]
+    },
+    {
+      "word": "입법`?[본문]\\\"수술대",
+      "mean_abs": 0.8931884765625,
+      "mean_signed": 0.8931884765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/726.json"
+      ]
+    },
+    {
+      "word": "`과잉",
+      "mean_abs": 0.8671875,
+      "mean_signed": 0.8671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/726.json"
+      ]
+    },
+    {
+      "word": "속수무책?[본문]해커에",
+      "mean_abs": 0.8522720336914062,
+      "mean_signed": 0.8522720336914062,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/727.json"
+      ]
+    },
+    {
+      "word": "모델,",
+      "mean_abs": 0.83203125,
+      "mean_signed": -0.83203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/774.json"
+      ]
+    },
+    {
+      "word": "소비자가",
+      "mean_abs": 0.828125,
+      "mean_signed": 0.828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/758.json"
+      ]
+    },
+    {
+      "word": "'CE차이나'",
+      "mean_abs": 0.814300537109375,
+      "mean_signed": 0.814300537109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/718.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]선데이토즈,2Q",
+      "mean_abs": 0.75146484375,
+      "mean_signed": -0.75146484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/771.json"
+      ]
+    },
+    {
+      "word": "스마트홈",
+      "mean_abs": 0.721435546875,
+      "mean_signed": 0.721435546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/718.json"
+      ]
+    },
+    {
+      "word": "이재용",
+      "mean_abs": 0.7109375,
+      "mean_signed": -0.7109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/740.json"
+      ]
+    },
+    {
+      "word": "탐방기···",
+      "mean_abs": 0.6905517578125,
+      "mean_signed": 0.6905517578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/718.json"
+      ]
+    },
+    {
+      "word": "만든다고?[본문]삼성전자는",
+      "mean_abs": 0.674560546875,
+      "mean_signed": 0.674560546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/758.json"
+      ]
+    },
+    {
+      "word": "렉스턴",
+      "mean_abs": 0.65234375,
+      "mean_signed": 0.65234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/778.json"
+      ]
+    },
+    {
+      "word": "되나?[본문]새해부터",
+      "mean_abs": 0.625823974609375,
+      "mean_signed": 0.625823974609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/759.json"
+      ]
+    },
+    {
+      "word": "수도꼭지·변기",
+      "mean_abs": 0.62109375,
+      "mean_signed": -0.62109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/761.json"
+      ]
+    },
+    {
+      "word": "B2B·B2C",
+      "mean_abs": 0.599365234375,
+      "mean_signed": -0.599365234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/752.json"
+      ]
+    },
+    {
+      "word": "대책",
+      "mean_abs": 0.58203125,
+      "mean_signed": -0.58203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/743.json"
+      ]
+    },
+    {
+      "word": "규제는",
+      "mean_abs": 0.5693359375,
+      "mean_signed": -0.5693359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/726.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]강화된",
+      "mean_abs": 0.55859375,
+      "mean_signed": -0.55859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/759.json"
+      ]
+    },
+    {
+      "word": "무성한",
+      "mean_abs": 0.546875,
+      "mean_signed": 0.546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/764.json"
+      ]
+    },
+    {
+      "word": "출시...",
+      "mean_abs": 0.51220703125,
+      "mean_signed": 0.51220703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/758.json"
+      ]
+    },
+    {
+      "word": "기대...",
+      "mean_abs": 0.50537109375,
+      "mean_signed": 0.50537109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/778.json"
+      ]
+    },
+    {
+      "word": "북유럽서도",
+      "mean_abs": 0.500244140625,
+      "mean_signed": 0.500244140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/713.json"
+      ]
+    },
+    {
+      "word": "미세먼지·친환경",
+      "mean_abs": 0.4990234375,
+      "mean_signed": -0.4990234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/743.json"
+      ]
+    },
+    {
+      "word": "원하는",
+      "mean_abs": 0.498046875,
+      "mean_signed": 0.498046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/758.json"
+      ]
+    },
+    {
+      "word": "전년비23%↑…\\\"경영",
+      "mean_abs": 0.488525390625,
+      "mean_signed": 0.488525390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/775.json"
+      ]
+    },
+    {
+      "word": "'눈길'[본문]지난8일(현지시간)",
+      "mean_abs": 0.48681640625,
+      "mean_signed": -0.48681640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/761.json"
+      ]
+    },
+    {
+      "word": "후원사",
+      "mean_abs": 0.48193359375,
+      "mean_signed": -0.48193359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/763.json"
+      ]
+    },
+    {
+      "word": "출시한",
+      "mean_abs": 0.48046875,
+      "mean_signed": 0.48046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/776.json"
+      ]
+    },
+    {
+      "word": "확인한다[본문]SK텔레콤이",
+      "mean_abs": 0.4757080078125,
+      "mean_signed": -0.4757080078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/774.json"
+      ]
+    },
+    {
+      "word": "공략",
+      "mean_abs": 0.47265625,
+      "mean_signed": -0.47265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/763.json"
+      ]
+    },
+    {
+      "word": "쓴다[본문]해외에서도",
+      "mean_abs": 0.4658203125,
+      "mean_signed": -0.4658203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/713.json"
+      ]
+    },
+    {
+      "word": "갤럭시",
+      "mean_abs": 0.45703125,
+      "mean_signed": -0.45703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/738.json"
+      ]
+    },
+    {
+      "word": "IoT와",
+      "mean_abs": 0.4541015625,
+      "mean_signed": -0.4541015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/718.json"
+      ]
+    },
+    {
+      "word": "제공[본문]LG유플러스는",
+      "mean_abs": 0.44451904296875,
+      "mean_signed": -0.44451904296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/719.json"
+      ]
+    },
+    {
+      "word": "마힌드라",
+      "mean_abs": 0.4423828125,
+      "mean_signed": 0.4423828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/778.json"
+      ]
+    },
+    {
+      "word": "'시강'[본문]애플",
+      "mean_abs": 0.43896484375,
+      "mean_signed": -0.43896484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/764.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]삼성전자",
+      "mean_abs": 0.431640625,
+      "mean_signed": 0.431640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/740.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]LG유플러스,",
+      "mean_abs": 0.43017578125,
+      "mean_signed": 0.43017578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/719.json"
+      ]
+    },
+    {
+      "word": "현장점검[본문]최양희",
+      "mean_abs": 0.4189453125,
+      "mean_signed": -0.4189453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/743.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]IS[제목]플랫폼",
+      "mean_abs": 0.412109375,
+      "mean_signed": -0.412109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/726.json"
+      ]
+    }
+  ],
+  "DIRECT_LC": [
+    {
+      "word": "음악가",
+      "mean_abs": 3.02734375,
+      "mean_signed": 3.02734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/648.json"
+      ]
+    },
+    {
+      "word": "어디길래?[본문]한정식의",
+      "mean_abs": 2.69482421875,
+      "mean_signed": 2.69482421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/693.json"
+      ]
+    },
+    {
+      "word": "'로고'...",
+      "mean_abs": 2.37890625,
+      "mean_signed": 2.37890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/663.json"
+      ]
+    },
+    {
+      "word": "높다는데...[본문]최근",
+      "mean_abs": 2.145263671875,
+      "mean_signed": 2.145263671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/661.json"
+      ]
+    },
+    {
+      "word": "트렌드는?[본문]올봄",
+      "mean_abs": 2.11328125,
+      "mean_signed": 2.11328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/663.json"
+      ]
+    },
+    {
+      "word": "살아남은",
+      "mean_abs": 1.90625,
+      "mean_signed": 1.90625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/648.json"
+      ]
+    },
+    {
+      "word": "아스피린의",
+      "mean_abs": 1.728515625,
+      "mean_signed": 1.728515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/709.json"
+      ]
+    },
+    {
+      "word": "발가벗긴",
+      "mean_abs": 1.650390625,
+      "mean_signed": -1.650390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/652.json"
+      ]
+    },
+    {
+      "word": "'큰집'···",
+      "mean_abs": 1.60205078125,
+      "mean_signed": 1.60205078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/693.json"
+      ]
+    },
+    {
+      "word": "불러온",
+      "mean_abs": 1.591796875,
+      "mean_signed": 1.591796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/646.json"
+      ]
+    },
+    {
+      "word": "발언에",
+      "mean_abs": 1.5859375,
+      "mean_signed": 1.5859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/655.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]『오락가락",
+      "mean_abs": 1.435546875,
+      "mean_signed": -1.435546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/646.json"
+      ]
+    },
+    {
+      "word": "혜택은?[본문]모든",
+      "mean_abs": 1.4306640625,
+      "mean_signed": 1.4306640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/704.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]아우슈비츠서",
+      "mean_abs": 1.41259765625,
+      "mean_signed": 1.41259765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/648.json"
+      ]
+    },
+    {
+      "word": "칸트의",
+      "mean_abs": 1.2333984375,
+      "mean_signed": 1.2333984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/655.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]진통",
+      "mean_abs": 1.23046875,
+      "mean_signed": 1.23046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/709.json"
+      ]
+    },
+    {
+      "word": "독자들",
+      "mean_abs": 1.189453125,
+      "mean_signed": 1.189453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/655.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]`남성만의",
+      "mean_abs": 1.1865234375,
+      "mean_signed": 1.1865234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/655.json"
+      ]
+    },
+    {
+      "word": "의약분업",
+      "mean_abs": 1.130859375,
+      "mean_signed": 1.130859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/659.json"
+      ]
+    },
+    {
+      "word": "얼굴은?[본문]진통제로",
+      "mean_abs": 1.13037109375,
+      "mean_signed": 1.13037109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/709.json"
+      ]
+    },
+    {
+      "word": "믿을",
+      "mean_abs": 1.109375,
+      "mean_signed": 1.109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/655.json"
+      ]
+    },
+    {
+      "word": "저술서",
+      "mean_abs": 1.0908203125,
+      "mean_signed": 1.0908203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/687.json"
+      ]
+    },
+    {
+      "word": "문화’1위는?[본문]한국",
+      "mean_abs": 1.03125,
+      "mean_signed": 1.03125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/675.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]'눈먼",
+      "mean_abs": 1.021484375,
+      "mean_signed": 1.021484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/687.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]페트병으로",
+      "mean_abs": 1.021484375,
+      "mean_signed": -1.021484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/649.json"
+      ]
+    },
+    {
+      "word": "기술수출까지...",
+      "mean_abs": 1.0087890625,
+      "mean_signed": 1.0087890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/678.json"
+      ]
+    },
+    {
+      "word": "아찔하고",
+      "mean_abs": 0.99609375,
+      "mean_signed": -0.99609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/649.json"
+      ]
+    },
+    {
+      "word": "녹즙기",
+      "mean_abs": 0.9833984375,
+      "mean_signed": -0.9833984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/643.json"
+      ]
+    },
+    {
+      "word": "보니...[본문](자료사진=중앙포토)",
+      "mean_abs": 0.9169921875,
+      "mean_signed": 0.9169921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/671.json"
+      ]
+    },
+    {
+      "word": "욕심일까요?[본문]매에는",
+      "mean_abs": 0.908203125,
+      "mean_signed": 0.908203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/698.json"
+      ]
+    },
+    {
+      "word": "반격을",
+      "mean_abs": 0.90625,
+      "mean_signed": 0.90625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/687.json"
+      ]
+    },
+    {
+      "word": "관능적인",
+      "mean_abs": 0.859375,
+      "mean_signed": -0.859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/649.json"
+      ]
+    },
+    {
+      "word": "보니?[본문]재폐업",
+      "mean_abs": 0.853271484375,
+      "mean_signed": 0.853271484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/659.json"
+      ]
+    },
+    {
+      "word": "코로나19",
+      "mean_abs": 0.8525390625,
+      "mean_signed": 0.8525390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/661.json"
+      ]
+    },
+    {
+      "word": "정보화'에",
+      "mean_abs": 0.837890625,
+      "mean_signed": 0.837890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/687.json"
+      ]
+    },
+    {
+      "word": "`나비`…",
+      "mean_abs": 0.8134765625,
+      "mean_signed": -0.8134765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/646.json"
+      ]
+    },
+    {
+      "word": "만들어진",
+      "mean_abs": 0.80859375,
+      "mean_signed": 0.80859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/643.json"
+      ]
+    },
+    {
+      "word": "알았던",
+      "mean_abs": 0.79296875,
+      "mean_signed": 0.79296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/671.json"
+      ]
+    },
+    {
+      "word": "DDR이",
+      "mean_abs": 0.73046875,
+      "mean_signed": 0.73046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/646.json"
+      ]
+    },
+    {
+      "word": "보니?[본문]아이야,",
+      "mean_abs": 0.7000732421875,
+      "mean_signed": 0.7000732421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/646.json"
+      ]
+    },
+    {
+      "word": "스테인리스로",
+      "mean_abs": 0.69921875,
+      "mean_signed": 0.69921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/643.json"
+      ]
+    },
+    {
+      "word": "놀라고",
+      "mean_abs": 0.67578125,
+      "mean_signed": 0.67578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/693.json"
+      ]
+    },
+    {
+      "word": "전파력",
+      "mean_abs": 0.63671875,
+      "mean_signed": 0.63671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/661.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]그림책",
+      "mean_abs": 0.62109375,
+      "mean_signed": 0.62109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/647.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]LC[제목]올봄",
+      "mean_abs": 0.607421875,
+      "mean_signed": 0.607421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/663.json"
+      ]
+    },
+    {
+      "word": "충격[본문]두뇌는",
+      "mean_abs": 0.585205078125,
+      "mean_signed": 0.585205078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/655.json"
+      ]
+    },
+    {
+      "word": "우현학술상",
+      "mean_abs": 0.552734375,
+      "mean_signed": -0.552734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/650.json"
+      ]
+    },
+    {
+      "word": "일제의",
+      "mean_abs": 0.53125,
+      "mean_signed": 0.53125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/676.json"
+      ]
+    },
+    {
+      "word": "인간으로'[본문]21세기는",
+      "mean_abs": 0.5263671875,
+      "mean_signed": -0.5263671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/687.json"
+      ]
+    },
+    {
+      "word": "부품",
+      "mean_abs": 0.478515625,
+      "mean_signed": 0.478515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/643.json"
+      ]
+    }
+  ],
+  "DIRECT_PO": [
+    {
+      "word": "입장은?[본문]권영세",
+      "mean_abs": 1.7033538818359375,
+      "mean_signed": -1.7033538818359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/591.json"
+      ]
+    },
+    {
+      "word": "의원이",
+      "mean_abs": 1.609375,
+      "mean_signed": -1.609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/580.json"
+      ]
+    },
+    {
+      "word": "\\\"대통령이",
+      "mean_abs": 1.2158203125,
+      "mean_signed": -1.2158203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/617.json"
+      ]
+    },
+    {
+      "word": "논란에",
+      "mean_abs": 1.1015625,
+      "mean_signed": 1.1015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/591.json"
+      ]
+    },
+    {
+      "word": "\"전설로",
+      "mean_abs": 1.0927734375,
+      "mean_signed": 1.0927734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/582.json"
+      ]
+    },
+    {
+      "word": "윤석열35%…정권교체론48%",
+      "mean_abs": 1.03515625,
+      "mean_signed": 1.03515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/578.json"
+      ]
+    },
+    {
+      "word": "정유라가",
+      "mean_abs": 1.025390625,
+      "mean_signed": -1.025390625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/592.json"
+      ]
+    },
+    {
+      "word": "체포동의안",
+      "mean_abs": 0.98046875,
+      "mean_signed": 0.98046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/580.json"
+      ]
+    },
+    {
+      "word": "법카",
+      "mean_abs": 0.888671875,
+      "mean_signed": 0.888671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/591.json"
+      ]
+    },
+    {
+      "word": "권영세의",
+      "mean_abs": 0.87109375,
+      "mean_signed": 0.87109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/591.json"
+      ]
+    },
+    {
+      "word": "원내수석부대표로",
+      "mean_abs": 0.8486328125,
+      "mean_signed": -0.8486328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/638.json"
+      ]
+    },
+    {
+      "word": "최순실의",
+      "mean_abs": 0.8212890625,
+      "mean_signed": -0.8212890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/592.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]여당-정부의",
+      "mean_abs": 0.7333984375,
+      "mean_signed": 0.7333984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/594.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]이재명32%",
+      "mean_abs": 0.67529296875,
+      "mean_signed": -0.67529296875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/578.json"
+      ]
+    },
+    {
+      "word": "\\\"역겹다\\\"[본문]미국",
+      "mean_abs": 0.666778564453125,
+      "mean_signed": 0.666778564453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/634.json"
+      ]
+    },
+    {
+      "word": "‘가세연'에",
+      "mean_abs": 0.591552734375,
+      "mean_signed": -0.591552734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/592.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]박영선",
+      "mean_abs": 0.5908203125,
+      "mean_signed": 0.5908203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/610.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]실언으로",
+      "mean_abs": 0.58984375,
+      "mean_signed": -0.58984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/609.json"
+      ]
+    },
+    {
+      "word": "`닥눈삼`중인",
+      "mean_abs": 0.576171875,
+      "mean_signed": 0.576171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/609.json"
+      ]
+    },
+    {
+      "word": "주도···\\\"18일까지",
+      "mean_abs": 0.575927734375,
+      "mean_signed": -0.575927734375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/626.json"
+      ]
+    },
+    {
+      "word": "부결?",
+      "mean_abs": 0.5751953125,
+      "mean_signed": 0.5751953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/580.json"
+      ]
+    },
+    {
+      "word": "펜스",
+      "mean_abs": 0.5634765625,
+      "mean_signed": 0.5634765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/582.json"
+      ]
+    },
+    {
+      "word": "표해",
+      "mean_abs": 0.55499267578125,
+      "mean_signed": -0.55499267578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/582.json"
+      ]
+    },
+    {
+      "word": "가결,",
+      "mean_abs": 0.541015625,
+      "mean_signed": 0.541015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/580.json"
+      ]
+    },
+    {
+      "word": "가동…\\\"긴급대응회의",
+      "mean_abs": 0.530181884765625,
+      "mean_signed": -0.530181884765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/619.json"
+      ]
+    },
+    {
+      "word": "전기·수소차",
+      "mean_abs": 0.526123046875,
+      "mean_signed": 0.526123046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/585.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]이상직",
+      "mean_abs": 0.478515625,
+      "mean_signed": -0.478515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/580.json"
+      ]
+    },
+    {
+      "word": "비례연합,",
+      "mean_abs": 0.47705078125,
+      "mean_signed": 0.47705078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/626.json"
+      ]
+    },
+    {
+      "word": "유감”[본문]스가",
+      "mean_abs": 0.47589111328125,
+      "mean_signed": 0.47589111328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/618.json"
+      ]
+    },
+    {
+      "word": "김종인의",
+      "mean_abs": 0.46807861328125,
+      "mean_signed": -0.46807861328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/633.json"
+      ]
+    },
+    {
+      "word": "은밀히",
+      "mean_abs": 0.458984375,
+      "mean_signed": -0.458984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/582.json"
+      ]
+    },
+    {
+      "word": "추경호",
+      "mean_abs": 0.45703125,
+      "mean_signed": -0.45703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/638.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]조국·박원순",
+      "mean_abs": 0.452880859375,
+      "mean_signed": 0.452880859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/595.json"
+      ]
+    },
+    {
+      "word": "장군에",
+      "mean_abs": 0.4453125,
+      "mean_signed": -0.4453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/582.json"
+      ]
+    },
+    {
+      "word": "발언...",
+      "mean_abs": 0.43798828125,
+      "mean_signed": 0.43798828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/633.json"
+      ]
+    },
+    {
+      "word": "이",
+      "mean_abs": 0.4375,
+      "mean_signed": -0.4375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/580.json"
+      ]
+    },
+    {
+      "word": "했던",
+      "mean_abs": 0.396484375,
+      "mean_signed": -0.396484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/633.json"
+      ]
+    },
+    {
+      "word": "비핵화",
+      "mean_abs": 0.39453125,
+      "mean_signed": 0.39453125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/635.json"
+      ]
+    },
+    {
+      "word": "베르사유",
+      "mean_abs": 0.37841796875,
+      "mean_signed": -0.37841796875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/613.json"
+      ]
+    },
+    {
+      "word": "내라”[본문]“이",
+      "mean_abs": 0.3740234375,
+      "mean_signed": 0.3740234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/610.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]美",
+      "mean_abs": 0.361328125,
+      "mean_signed": 0.361328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/582.json"
+      ]
+    },
+    {
+      "word": "언론중재법…박용진",
+      "mean_abs": 0.36004638671875,
+      "mean_signed": 0.36004638671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/620.json"
+      ]
+    },
+    {
+      "word": "옥중편지,",
+      "mean_abs": 0.352783203125,
+      "mean_signed": -0.352783203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/592.json"
+      ]
+    },
+    {
+      "word": "��",
+      "mean_abs": 0.3524169921875,
+      "mean_signed": 0.0792236328125,
+      "n_docs": 2,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/637.json",
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/600.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]與의",
+      "mean_abs": 0.3515625,
+      "mean_signed": 0.3515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/637.json"
+      ]
+    },
+    {
+      "word": "공간으로\\\"[본문]윤석열",
+      "mean_abs": 0.3408203125,
+      "mean_signed": 0.3408203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/613.json"
+      ]
+    },
+    {
+      "word": "검찰···이방카",
+      "mean_abs": 0.339599609375,
+      "mean_signed": 0.339599609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/634.json"
+      ]
+    },
+    {
+      "word": "연다는",
+      "mean_abs": 0.3330078125,
+      "mean_signed": 0.3330078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/630.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]PO[제목]상이",
+      "mean_abs": 0.32421875,
+      "mean_signed": 0.32421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/585.json"
+      ]
+    },
+    {
+      "word": "거냐\"",
+      "mean_abs": 0.3133392333984375,
+      "mean_signed": -0.3133392333984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/594.json"
+      ]
+    }
+  ],
+  "DIRECT_SO": [
+    {
+      "word": "독려나섰다…",
+      "mean_abs": 5.36328125,
+      "mean_signed": -5.36328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/508.json"
+      ]
+    },
+    {
+      "word": "속으로..버스전용차로11월",
+      "mean_abs": 2.635101318359375,
+      "mean_signed": 2.635101318359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/512.json"
+      ]
+    },
+    {
+      "word": "범죄수익환수과",
+      "mean_abs": 2.560546875,
+      "mean_signed": -2.560546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/566.json"
+      ]
+    },
+    {
+      "word": "‘솔릭’",
+      "mean_abs": 1.52490234375,
+      "mean_signed": 1.52490234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/529.json"
+      ]
+    },
+    {
+      "word": "태풍",
+      "mean_abs": 1.4140625,
+      "mean_signed": 1.4140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/529.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]고양경기문화창조허브,",
+      "mean_abs": 1.210693359375,
+      "mean_signed": 1.210693359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/550.json"
+      ]
+    },
+    {
+      "word": "돌파[본문]파업",
+      "mean_abs": 1.168212890625,
+      "mean_signed": -1.168212890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/535.json"
+      ]
+    },
+    {
+      "word": "지원",
+      "mean_abs": 1.140625,
+      "mean_signed": 1.140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/521.json"
+      ]
+    },
+    {
+      "word": "기자회장은",
+      "mean_abs": 1.115234375,
+      "mean_signed": 1.115234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/536.json"
+      ]
+    },
+    {
+      "word": "터져...",
+      "mean_abs": 1.107421875,
+      "mean_signed": 1.107421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/528.json"
+      ]
+    },
+    {
+      "word": "해고됐던",
+      "mean_abs": 1.103515625,
+      "mean_signed": -1.103515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/536.json"
+      ]
+    },
+    {
+      "word": "'화학방제1함'",
+      "mean_abs": 1.1005859375,
+      "mean_signed": -1.1005859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/530.json"
+      ]
+    },
+    {
+      "word": "연합회에서",
+      "mean_abs": 1.099609375,
+      "mean_signed": 1.099609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/533.json"
+      ]
+    },
+    {
+      "word": "청년들의",
+      "mean_abs": 1.0703125,
+      "mean_signed": 1.0703125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/555.json"
+      ]
+    },
+    {
+      "word": "투쟁기금",
+      "mean_abs": 1.0419921875,
+      "mean_signed": 1.0419921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/535.json"
+      ]
+    },
+    {
+      "word": "또다시",
+      "mean_abs": 1.0234375,
+      "mean_signed": 1.0234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/528.json"
+      ]
+    },
+    {
+      "word": "노조,",
+      "mean_abs": 0.930419921875,
+      "mean_signed": -0.930419921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/535.json"
+      ]
+    },
+    {
+      "word": "오픈한",
+      "mean_abs": 0.88671875,
+      "mean_signed": 0.88671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/518.json"
+      ]
+    },
+    {
+      "word": "마련",
+      "mean_abs": 0.8359375,
+      "mean_signed": -0.8359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/520.json"
+      ]
+    },
+    {
+      "word": "이행시",
+      "mean_abs": 0.8203125,
+      "mean_signed": 0.8203125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/508.json"
+      ]
+    },
+    {
+      "word": "무더기",
+      "mean_abs": 0.78515625,
+      "mean_signed": 0.78515625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/536.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]MBC,",
+      "mean_abs": 0.76953125,
+      "mean_signed": 0.76953125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/536.json"
+      ]
+    },
+    {
+      "word": "뉴스·시사",
+      "mean_abs": 0.7333984375,
+      "mean_signed": 0.7333984375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/505.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]42년",
+      "mean_abs": 0.73046875,
+      "mean_signed": 0.73046875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/512.json"
+      ]
+    },
+    {
+      "word": "주는",
+      "mean_abs": 0.7265625,
+      "mean_signed": 0.7265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/533.json"
+      ]
+    },
+    {
+      "word": "한남고가",
+      "mean_abs": 0.7265625,
+      "mean_signed": 0.7265625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/512.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]시사",
+      "mean_abs": 0.6875,
+      "mean_signed": 0.6875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/505.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]기업들의",
+      "mean_abs": 0.6484375,
+      "mean_signed": 0.6484375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/555.json"
+      ]
+    },
+    {
+      "word": "상'",
+      "mean_abs": 0.6328125,
+      "mean_signed": -0.6328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/533.json"
+      ]
+    },
+    {
+      "word": "노조집행부-파업",
+      "mean_abs": 0.62451171875,
+      "mean_signed": 0.62451171875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/536.json"
+      ]
+    },
+    {
+      "word": "활동에",
+      "mean_abs": 0.61328125,
+      "mean_signed": -0.61328125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/555.json"
+      ]
+    },
+    {
+      "word": "지점,",
+      "mean_abs": 0.55859375,
+      "mean_signed": -0.55859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/498.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]전남",
+      "mean_abs": 0.5546875,
+      "mean_signed": 0.5546875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/518.json"
+      ]
+    },
+    {
+      "word": "수억",
+      "mean_abs": 0.5537109375,
+      "mean_signed": -0.5537109375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/535.json"
+      ]
+    },
+    {
+      "word": "검사",
+      "mean_abs": 0.55078125,
+      "mean_signed": 0.55078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/508.json"
+      ]
+    },
+    {
+      "word": "올라와?[본문]지난1일2020",
+      "mean_abs": 0.541259765625,
+      "mean_signed": 0.541259765625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/503.json"
+      ]
+    },
+    {
+      "word": "'전국적'",
+      "mean_abs": 0.5250244140625,
+      "mean_signed": -0.5250244140625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/555.json"
+      ]
+    },
+    {
+      "word": "돌입[본문]광명시는19호",
+      "mean_abs": 0.513916015625,
+      "mean_signed": -0.513916015625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/529.json"
+      ]
+    },
+    {
+      "word": "줘야",
+      "mean_abs": 0.490234375,
+      "mean_signed": 0.490234375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/503.json"
+      ]
+    },
+    {
+      "word": "한번에",
+      "mean_abs": 0.48828125,
+      "mean_signed": -0.48828125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/535.json"
+      ]
+    },
+    {
+      "word": "은닉재산",
+      "mean_abs": 0.482421875,
+      "mean_signed": 0.482421875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/566.json"
+      ]
+    },
+    {
+      "word": "배경은?[본문]전남도는",
+      "mean_abs": 0.480224609375,
+      "mean_signed": 0.480224609375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/518.json"
+      ]
+    },
+    {
+      "word": "취역[본문]국내",
+      "mean_abs": 0.468505859375,
+      "mean_signed": -0.468505859375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/530.json"
+      ]
+    },
+    {
+      "word": "라디오",
+      "mean_abs": 0.462890625,
+      "mean_signed": 0.462890625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/505.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]검찰",
+      "mean_abs": 0.455078125,
+      "mean_signed": -0.455078125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/566.json"
+      ]
+    },
+    {
+      "word": "재심으로",
+      "mean_abs": 0.45263671875,
+      "mean_signed": 0.45263671875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/536.json"
+      ]
+    },
+    {
+      "word": "장애인",
+      "mean_abs": 0.44921875,
+      "mean_signed": 0.44921875,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/502.json"
+      ]
+    },
+    {
+      "word": "판단하라.[카테고리]SO[제목]불방",
+      "mean_abs": 0.43359375,
+      "mean_signed": 0.43359375,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/533.json"
+      ]
+    },
+    {
+      "word": "급락으로",
+      "mean_abs": 0.431640625,
+      "mean_signed": -0.431640625,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/523.json"
+      ]
+    },
+    {
+      "word": "청년",
+      "mean_abs": 0.42578125,
+      "mean_signed": 0.42578125,
+      "n_docs": 1,
+      "example_paths": [
+        "/content/drive/MyDrive/sample_slice_PO/slice_PO/556.json"
+      ]
+    }
+  ]
+}

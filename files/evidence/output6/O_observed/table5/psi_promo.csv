@@ -1,0 +1,6 @@
+﻿risk_id,description,period,metric,psi_value,is_september,baseline_psi,current_psi,delta_from_baseline,threshold,escalation_required,decision_action,run_id
+RISK-007,특징(feature) 편차: promo_flag,2025-Jun,psi_promo_flag,0.2,False,,,,,,,
+RISK-007,특징(feature) 편차: promo_flag,2025-Jul,psi_promo_flag,0.21,False,,,,,,,
+RISK-007,특징(feature) 편차: promo_flag,2025-Aug,psi_promo_flag,0.22,False,,,,,,,
+RISK-007,특징(feature) 편차: promo_flag,2025-Sep,psi_promo_flag,0.28,True,,,,,,,
+RISK-007,특징(feature) 편차: promo_flag,2025-09,psi_promo_flag,,,0.22,0.28,0.06,0.25,Yes,휴일 주간 promo SKU 판단 중단; 재보정 일정 계획.,RUN_2025-09-28_003

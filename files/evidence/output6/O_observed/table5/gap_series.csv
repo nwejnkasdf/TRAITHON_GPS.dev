@@ -1,0 +1,6 @@
+﻿impact_id,description,period,metric,recall_day,recall_dusk,gap_recall_dusk_day,is_september,baseline_gap,current_gap,delta_from_baseline,threshold,escalation_required,decision_action,run_id
+IMPACT-010,황혼 무렵 보행자 누락,2025-Jun,gap_recall_dusk_day,0.96,0.9,-0.06,False,,,,,,,
+IMPACT-010,황혼 무렵 보행자 누락,2025-Jul,gap_recall_dusk_day,0.96,0.9,-0.06,False,,,,,,,
+IMPACT-010,황혼 무렵 보행자 누락,2025-Aug,gap_recall_dusk_day,0.95,0.89,-0.06,False,,,,,,,
+IMPACT-010,황혼 무렵 보행자 누락,2025-Sep,gap_recall_dusk_day,0.95,0.875,-0.075,True,,,,,,,
+IMPACT-010,황혼 무렵 보행자 누락,2025-09,gap_recall_dusk_day,,,,,-0.06,-0.075,-0.015,-0.06,Yes,카나리 배포 중단; v2.3 롤백; 안전 메모 기록.,RUN_2025-09-27_004

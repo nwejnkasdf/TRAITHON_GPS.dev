@@ -1,0 +1,9 @@
+https://www.cloudmatos.ai/blog/ethical-of-autonomous-agents-accountability/
+Designing Ethical Autonomous Agents: Fairness and Accountability in Practice
+
+<요약>
+모니터링 윈도우: 분기별로 성능, 공정성 지표 평가
+드리프트 감지: Adwin 알고리즘으로 calibration error를 시계열로 추적하고, 성능 악화가 관측되면 경보 발생
+모델 업데이트: Adwin이 반환한 최근 데이터 윈도우를 사용해 모델 업데이트를 학습하고, 비모수 테스트 절차로 '현재 모델 유지 / 절편 보정 / 선형 재보정 / 유연 재보정' 중 하나를 선택
+공정성 드리프트 발견: 전체 모집단 수준의 재보정이 하위 집단별 공정성 격차를 개선, 악화, 무영향 모두 초래할 수 있음을 실증
+제언: 공정성을 지속하려면 모집단 수준뿐 아니라 하위 집단별로도 드리프트 탐지, 업데이트를 적용하는 새로운 방법론 필요

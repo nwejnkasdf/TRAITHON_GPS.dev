@@ -1,0 +1,5 @@
+test,var_x,var_y,n,chi2,dof,p_value,cramers_v,min_expected,expected_ok(>=5),levels_x,levels_y
+chi2_independence,processPattern,clickbaitClass,660085,660085.0,11,0.0,1.0,1163.2877402152753,True,12,2
+chi2_independence,processType,clickbaitClass,660085,102640.29995785607,1,0.0,0.3943292787136608,44709.28971571843,True,2,2
+chi2_independence,processLevel,clickbaitClass,660085,60581.00416927877,2,0.0,0.30294814806593695,10239.70656506359,True,3,2
+chi2_independence,newsCategory,clickbaitClass,660085,1131.5026622953585,6,3.184748980297321e-241,0.04140262320105225,35410.41935962793,True,7,2

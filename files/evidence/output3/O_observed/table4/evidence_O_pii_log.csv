@@ -1,0 +1,5 @@
+Date,Batch_ID,Entities_Removed,PII_Action,Status,Inspector
+2026-01-05,BATCH_PO_01,452 (HTML Tags),None Detected,PASS,Refine_01
+2026-01-07,BATCH_ET_03,128 (Unicode),2 PII (Names) -> Replaced,PASS,Refine_02
+2026-01-10,BATCH_SO_05,89 (Special Chars),1 PII (Phone) -> Rejected,FAIL_FIXED,Refine_01
+2026-01-12,BATCH_LC_02,210 (HTML Entities),None Detected,PASS,Refine_03

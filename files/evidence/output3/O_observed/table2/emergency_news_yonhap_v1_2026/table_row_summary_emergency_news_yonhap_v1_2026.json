@@ -1,0 +1,82 @@
+{
+  "dataset_snapshot_id": "emergency_news_yonhap_v1_2026",
+  "slice": "ALL + 유형 슬라이스(지진/산불/감염병/풍수해/… + 기타)",
+  "completeness_pct": 100.0,
+  "label_integrity": {
+    "type": "audit_rate",
+    "value": 1.0,
+    "note": "라벨 없음(N/A), 원문 직접 사용"
+  },
+  "representativeness": {
+    "n": 100,
+    "type_counts": [
+      {
+        "disaster_type": "기타",
+        "count": 39,
+        "share": 0.39
+      },
+      {
+        "disaster_type": "다중밀집건축물붕괴대형사고",
+        "count": 30,
+        "share": 0.3
+      },
+      {
+        "disaster_type": "지진",
+        "count": 24,
+        "share": 0.24
+      },
+      {
+        "disaster_type": "풍수해",
+        "count": 3,
+        "share": 0.03
+      },
+      {
+        "disaster_type": "해양선박사고",
+        "count": 2,
+        "share": 0.02
+      },
+      {
+        "disaster_type": "산불",
+        "count": 2,
+        "share": 0.02
+      }
+    ],
+    "chi2_uniform_non_other": {
+      "chi2": 61.37704918032787,
+      "df": 4,
+      "p_value": 1.4895158597269813e-12,
+      "note": "비-기타 유형 균등 대비 불균형"
+    }
+  },
+  "provenance_integrity": {
+    "provenance_steps": 4,
+    "duplicate_id_count": 0,
+    "duplicate_content_count": 0
+  },
+  "privacy_scan": {
+    "email_occurrences": 90,
+    "phone_occurrences": 1,
+    "unique_emails": 53,
+    "unique_phones": 1
+  },
+  "notes": {
+    "definition": "대국민서비스를 위한 뉴스정보 제공(재난관리: 협조체계 구축·상황파악)",
+    "update_cycle": "5분",
+    "snapshot_date": "2026-01-13",
+    "file_extension": "CSV",
+    "collection_method": "시스템연계"
+  },
+  "evidence": {
+    "O": [
+      "/mnt/data/evidence/O_observed/yonhap_emergency_v1_2026/completeness_report_emergency.csv",
+      "/mnt/data/evidence/O_observed/yonhap_emergency_v1_2026/missing_required_fields_log.csv",
+      "/mnt/data/evidence/O_observed/yonhap_emergency_v1_2026/privacy_scan_pii_matches.csv",
+      "/mnt/data/evidence/O_observed/yonhap_emergency_v1_2026/representativeness_disaster_type_counts.csv",
+      "/mnt/data/evidence/O_observed/yonhap_emergency_v1_2026/representativeness_chi2_disaster_type.csv",
+      "/mnt/data/evidence/O_observed/yonhap_emergency_v1_2026/provenance_trace_emergency.json"
+    ],
+    "A": [
+      "/mnt/data/evidence/A_assumed/yonhap_emergency_v1_2026/disaster_type_keyword_rules_v1.md"
+    ]
+  }
+}

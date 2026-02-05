@@ -1,0 +1,3 @@
+﻿date,scope,feature,window_id,baseline_size,window_size,psi_value,threshold,k_violations,guardrail_pass
+2025-11-01,22:00–06:00 & long_threads,title_len,W1,2500,1250,0.2141,0.25,0,PASS
+2025-11-08,22:00–06:00 & long_threads,title_len,W2,2500,1250,0.0416,0.25,0,PASS

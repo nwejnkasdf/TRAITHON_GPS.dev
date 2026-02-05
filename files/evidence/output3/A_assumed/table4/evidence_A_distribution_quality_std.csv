@@ -1,0 +1,5 @@
+Metric_ID,Statistical_Test,Threshold,Description
+DIST-01,Chi_Square_P_Value,>= 0.05,Test for independence between Category and Label
+DIST-02,Cramers_V,<= 0.10,Effect size for association strength (Low association required)
+DIST-03,Label_Balance_Ratio,0.8 to 1.2,Ratio between 'Clickbait' and 'Non-clickbait' labels
+DIST-04,Re_sampling_Trigger,Persistent Breach,Initiate controlled sampling if stats fail for 2+ snapshots

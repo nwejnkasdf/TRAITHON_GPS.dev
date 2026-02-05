@@ -1,0 +1,2 @@
+test,var_x,var_y,n,chi2,dof,p_value,cramers_v,min_expected,expected_ok(>=5),levels_x,levels_y
+chi2_independence,newsCategory,clickbaitClass,660085,1131.5026622953585,6,3.184748980297321e-241,0.04140262320105225,35410.41935962793,True,7,2

@@ -1,0 +1,41 @@
+{
+  "dataset_snapshot_id": "emergency_news_yonhap_v1_2026",
+  "input_file": "연합뉴스_데이터.csv",
+  "snapshot_date_kst": "2026-01-13",
+  "steps": [
+    {
+      "step": "ingest_csv",
+      "records_in": 101,
+      "records_out": 100,
+      "note": "첫 행 메타 헤더 제거"
+    },
+    {
+      "step": "schema_validation",
+      "records_checked": 100,
+      "required_fields": [
+        "YNA_NO",
+        "YNA_TTL",
+        "YNA_CN",
+        "YNA_YMD",
+        "YNA_WRTR_NM"
+      ],
+      "missing_any_required": 0
+    },
+    {
+      "step": "deduplication",
+      "dup_by_id": 0,
+      "dup_by_content_hash": 0,
+      "records_out": 100
+    },
+    {
+      "step": "disaster_type_tagging",
+      "method": "keyword_rules_v1",
+      "output_column": "disaster_type"
+    }
+  ],
+  "integrity_summary": {
+    "provenance_steps": 4,
+    "duplicate_id_count": 0,
+    "duplicate_content_count": 0
+  }
+}

@@ -1,0 +1,7 @@
+step,role,action,trigger_metric,trigger_condition,sla,evidence_type,evidence_description,evidence_path,timestamp
+1,R(Operator),Freeze serving to single active version,mismatch_rate,threshold_exceeded,immediate,O,Single active version enforced and mismatch detected,evidence/O_observed/serving/freeze_single_version.log,2025-01-12T09:41:12Z
+2,R(Operator),Collect schema hash mismatch logs,mismatch_rate,threshold_exceeded,immediate,O,Schema hash mismatch root logs captured,evidence/O_observed/schema/schema_hash_mismatch.json,2025-01-12T09:43:05Z
+3,A(PM),Identify responsible domain (serving/preprocessing/model),mismatch_rate,incident_reported,24h,O,Ownership decision documented,evidence/O_observed/approvals/domain_responsibility_decision.md,2025-01-12T15:12:44Z
+4,A(PM),Approve resynchronization or rollback,mismatch_rate,root_cause_confirmed,24h,O,Rollback or resynchronization approval record,evidence/O_observed/approvals/resync_or_rollback_approval.pdf,2025-01-12T16:03:18Z
+5,Post-action,Run cross-evaluation before resume,mismatch_rate,fix_applied,pre-resume,O,Cross-evaluation results passed,evidence/O_observed/validation/cross_eval_results.csv,2025-01-13T02:21:09Z
+6,Post-action,Resume normal serving,mismatch_rate,cross_eval_passed,immediate,O,Normal serving resumed,evidence/O_observed/serving/resume_normal_serving.log,2025-01-13T02:35:42Z

@@ -1,0 +1,4 @@
+Audit_Item,Requirement,Target_Metric,Description
+Source_Citation,Mandatory,>= 99%,Every news article must link to its original provider.
+License_Type,AI_Research_Only,100%,Verify 'Non-commercial use' clause in metadata.
+Transparency,Model_Card,Mandatory,Document training data distribution and limitations.

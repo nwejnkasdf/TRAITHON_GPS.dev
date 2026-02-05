@@ -1,0 +1,2 @@
+﻿chi2_test,chi2_stat,df,p_value,note,excluded_label
+goodness_of_fit_vs_uniform(non-기타),61.37704918032787,4,1.4895158597269813e-12,재난유형(비-기타) 분포가 균등분포 대비 유의하게 불균형,기타

@@ -1,0 +1,6 @@
+﻿date,scope,test_stat,p_value,alpha,threshold,k_violations,guardrail_pass,obs_0,obs_1,exp_0,exp_1
+day_1,systemwide,2.5411,0.110915,0.01,p >= 0.01,0,PASS,535,465,509.8,490.2
+day_2,systemwide,0.041,0.839585,0.01,p >= 0.01,0,PASS,513,487,509.8,490.2
+day_3,systemwide,2.6636,0.102669,0.01,p >= 0.01,0,PASS,484,516,509.8,490.2
+day_4,systemwide,0.0194,0.889318,0.01,p >= 0.01,0,PASS,512,488,509.8,490.2
+day_5,systemwide,0.0922,0.761404,0.01,p >= 0.01,0,PASS,505,495,509.8,490.2

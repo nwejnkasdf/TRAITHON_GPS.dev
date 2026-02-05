@@ -1,0 +1,45 @@
+{
+  "dataset_snapshot_id": "emergency_news_yonhap_v1_2026",
+  "source": {
+    "portal": "재난안전데이터 공유 플랫폼",
+    "organization": "연합뉴스",
+    "data_sn": 46,
+    "contact": "02-398-3556"
+  },
+  "collection": {
+    "method": "system_integration",
+    "update_cycle": "5min",
+    "last_updated_kst": "2026-01-13"
+  },
+  "annotation": {
+    "labeling": "none",
+    "purpose": "재난 정보 전달",
+    "qa_checks": [
+      "수집 누락",
+      "중복",
+      "필드 정합성"
+    ]
+  },
+  "preprocessing": [
+    "CSV 포맷 검증 및 스키마 고정",
+    "중복 기사 제거 (ID·제목·본문 해시)",
+    "재난 유형 태깅(산사태, 지진, 감염병 등)",
+    "제목·본문 텍스트 정규화",
+    "시간·유형 메타데이터 정합성 확인"
+  ],
+  "licensing": {
+    "public": true,
+    "usage": "대국민 공개 / 연구·분석 목적 사용",
+    "rights": "연합뉴스 원문 유지",
+    "spdx": "CC-BY 계열 준용(출처 명시 필수)"
+  },
+  "maintainer": {
+    "role": "연합뉴스 데이터 담당 부서",
+    "contact": "02-398-3556"
+  },
+  "version": {
+    "tag": "v1.0",
+    "date": "2026-01-13",
+    "changes": "재난 기사 스트레스 테스트용 스냅샷 정의"
+  }
+}

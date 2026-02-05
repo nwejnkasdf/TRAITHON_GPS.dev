@@ -1,0 +1,3 @@
+﻿group,slice,n,rate_p1_ge_0.5,rate_logit_gt_0.0,wilson_ci_lo(p1),wilson_ci_hi(p1),p1_mean,logit_mean
+OVERALL,Emergency_NationalSafety,101,0.0,0.0,0.0,0.03664194365595336,0.00783637018487005,-5.987623762376238
+section=Emergency_NationalSafety,Emergency_NationalSafety,101,0.0,0.0,0.0,0.03664194365595336,0.00783637018487005,-5.987623762376238

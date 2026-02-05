@@ -1,0 +1,4 @@
+Scan_Date,Snapshot_ID,Section_Pair,Chi_Sq_P,Cramers_V,Status,Action
+2026-01-05,PLAT_SNAP_01,All_Sections,0.124,0.062,PASS,Distribution stable
+2026-01-12,PLAT_SNAP_02,ET_vs_Label,0.048,0.115,WATCH,Slight association detected in ET section
+2026-01-14,PLAT_SNAP_03,ET_vs_Label,0.031,0.132,ALERT,Triggering re-sampling experiment for ET section

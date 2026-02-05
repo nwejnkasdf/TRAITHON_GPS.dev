@@ -1,0 +1,2 @@
+﻿impact_id,description,period,metric,baseline_recall,current_recall,delta_from_baseline,threshold,escalation_required,decision_action,run_id
+IMPACT-001,야간 근무 중 놓친 위협,2025-09,recall_threat,0.85,0.832,-0.018,0.85,Yes,CAPA 개시; 야간 임계값 상향; k=2 안정성 규칙 추가.,RUN_2025-09-30_001

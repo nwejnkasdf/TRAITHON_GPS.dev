@@ -1,0 +1,2 @@
+﻿n_runs,n_fail,k,stable_fail,abs_gap_mean,abs_gap_p95,ratio_gap_mean,ratio_gap_p95
+30,3,2,True,16708.781624772266,16939.514675909424,5.09585807954303,5.229005091554665
