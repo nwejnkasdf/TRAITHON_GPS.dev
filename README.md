@@ -6,7 +6,7 @@ Trustworthy AI competition portfolio
 ### 1.1. Summary:
 As a Technical Lead, drove product planning and built the core inference and monitoring stack for an LLM-based clickbait detection service, including 0/1 logit-based scoring, IG-based explanations, and short-/long-term drift detection with operational thresholds.
 
-### 5.3. Detail:
+### 1.2. Detail:
 - Led service planning for a platform-style product that surfaces clickbait indices aggregated by publisher, journalist, and section, with an end-to-end user + operations flow.
 - Built the end-to-end service pipeline from article ingestion to scoring, storage, aggregation, and monitoring-ready outputs.
 - Designed and implemented the main inference engine by constraining outputs to {0,1}, extracting the final-layer 0/1 logits, applying a 2-class softmax, and persisting p0/p1 and margin scores for downstream use.
