@@ -4,13 +4,19 @@ Trustworthy AI competition portfolio
 ## 1. 권효중
 ## 2. 김준호
 ## 3. 윤현정
-## 4. 이운정
+## 4. Woonjung Lee
 
+### 4.1. Summary:
+Working as a Data Scientist, conducted explainability-driven analysis and section-level bias evaluation for a clickbait detection system, and performed stress testing to identify and validate model failure modes under realistic conditions.
+Also led report authoring and contributed to evidence mapping and presentation material preparation.
 
-
-
-
-
+### 4.2. Detail:
+- Designed and implemented Integrated Gradients–based XAI analysis code, and empirically validated model decision rationales through controlled experiments.
+- Formulated section-level bias hypotheses based on label and subcategory distributions, and built a data proportion analysis pipeline from scratch to perform quantitative bias validation.
+- Designed stress-test scenarios using disaster news datasets, modeling extreme cases where sensational lexicon is used in legitimate public-interest contexts, and verified model failure modes in which such cases are misclassified as clickbait.
+- Led overall report and deliverable authoring, ensuring coherence and consistency across project outputs.
+- Participated in systematic evidence mapping across experiments and analyses.
+- Contributed to the development of presentation materials.
 
 ## 5. HyunJin Choi
 
