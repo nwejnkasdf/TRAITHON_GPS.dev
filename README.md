@@ -1,5 +1,5 @@
 # TRAITHON_GPS.dev
-Trustworthy AI competition portfolio
+Trustworthy AI competition contribution
 
 ## 1. Hyojung Gwon
 
@@ -17,7 +17,17 @@ As a Technical Lead, drove product planning and built the core inference and mon
 - Proposed and executed short-term drift/bias detection, designing and running experiments to calibrate practical alert thresholds and response actions.
 - Produced and delivered the award-ceremony presentation, translating the system into a reliability narrative (prevention–detection–response) aligned with competition evaluation criteria.
 
-## 2. 김준호
+## 2. Junho Kim
+
+### 2.1. Summary:
+Working as an AI model developer, specialized in enhancing adversarial robustness and operational stability by architecting a defense framework against Unicode-based obfuscation and a real-time short-term drift detection system.
+
+### 2.2. Detail:
+- Built a news data collection and preprocessing pipeline, implementing text cleaning and NFKC normalization to ensure data consistency and integrity across the system.
+- Proposed a detection methodology for Unicode-based obfuscation and conducted threshold-optimization experiments to identify and neutralize adversarial evasion attempts.
+- Developed an operational simulation for short-term drift detection, using Negative Log-Likelihood (NLL) to monitor model stability against sudden linguistic shifts and emerging neologisms.
+- Established an automated governance protocol with defined alerting and intervention workflows to safeguard system reliability during operational anomalies.
+
 ## 3. Hyeonjeong Yoon
 
 ### 3.1. Summary:
