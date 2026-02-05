@@ -11,7 +11,7 @@ As a Technical Lead, drove product planning and built the core inference and mon
 - Built the end-to-end service pipeline from article ingestion to scoring, storage, aggregation, and monitoring-ready outputs.
 - Designed and implemented the main inference engine by constraining outputs to {0,1}, extracting the final-layer 0/1 logits, applying a 2-class softmax, and persisting p0/p1 and margin scores for downstream use.
 - Developed preprocessing and XAI modules, including JSON flattening/normalization for sliceable datasets and an Integrated Gradients (IG) module for token-level attribution.
-- Fine-tuned the main inference model with DoRA, improving performance from accuracy [] / recall [] / F1 [] to accuracy [] / recall [] / F1 [] (fill in final numbers).
+- Fine-tuned the main inference model with DoRA, improving performance from [ accuracy [0.507] / precision [0.596] / recall [0.102] / F1 [0.174] ] to [ accuracy [0.986] / precision [0.985] / recall [0.988] / F1 [0.986] ].
 - Owned impact analysis end-to-end, drafting the initial impact registry, prioritizing key impacts, and assigning roles/owners across the team.
 - Proposed and executed long-term drift/bias detection, designing thresholding experiments and running an operations-style simulation to translate alerts into retraining/golden-set update decisions.
 - Proposed and executed short-term drift/bias detection, designing and running experiments to calibrate practical alert thresholds and response actions.
